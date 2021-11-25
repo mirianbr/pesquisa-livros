@@ -11,11 +11,11 @@
         <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
         <script>
             $(document).ready(function() {
-                language: {
-                    url: '//cdn.datatables.net/plug-ins/1.11.3/i18n/Portuguese-Brasil.json'
-                }
                 $('#livros').DataTable( {
-                    "ajax": 'livros.txt'
+                    "language": {
+                        "url": 'assets/pt_br.json'
+                    },
+                    "ajax": 'data/livros.txt'
                 } );
             } );
         </script>
@@ -29,12 +29,6 @@
                     <th>Autor</th>
                 </tr>
             </thead>
-            <tfoot>
-                <tr>
-                    <th>Título</th>
-                    <th>Autor</th>
-                </tr>
-            </tfoot>
         </table>
     </body>
 </html>

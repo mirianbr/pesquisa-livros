@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Livros do Leandro e da Mírian</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Lista pesquisável de livros do Leandro e da Mírian">
+        <meta name="keywords" content="livros, books">
+        <meta name="author" content="Mírian Bruckschen Motta Barros">
+        <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+        <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+        <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $('#livros').DataTable( {
+                    "ajax": 'livros.json'
+                } );
+            } );
+        </script>
+    </head> 
+    <body>
+        <h1>Livros do Leandro e da Mírian</h1>
+        <table id="livros" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Título</th>
+                    <th>Autor</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Título</th>
+                    <th>Autor</th>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>

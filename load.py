@@ -14,7 +14,7 @@ def get_book_summary(bookfile):
             elif 'type=' in line:
                 book_summary['subtype'] = line.split('=')[1].strip()
             elif 'year=' in line:
-                book_summary['year'] = line.split('=')[1].strip()
+                book_summary['year'] = line.split('=')[1].strip().replace('[', '').replace(']', '')
             elif 'lang=' in line:
                 book_summary['lang'] = line.split('=')[1].strip()
 

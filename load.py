@@ -7,7 +7,7 @@ def get_book_summary(bookfile):
     content = bookfile.readlines()
     for line in content:
         if (line.strip() > ''): 
-            if 'title=' in line:
+            if line.startswith('title='):
                 book_summary['title'] = line.split('=')[1].strip()
             elif 'author=' in line:
                 book_summary['author'] = line.split('=')[1].strip()

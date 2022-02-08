@@ -22,7 +22,7 @@
             "pt_BR"
         ],
         [
-            "enigmas da criação",
+            "Assim tudo começou",
             "Luiz Antonio Aguiar",
             "fiction",
             "2005",
@@ -43,21 +43,21 @@
             "pt_BR"
         ],
         [
-            "La Divina Commedia",
+            "A Divina Comédia",
             "Dante Alighieri",
             "poetry",
             "1998",
             "it"
         ],
         [
-            "La Divina Commedia",
+            "A Divina Comédia",
             "Dante Alighieri",
             "poetry",
             "1998",
             "it"
         ],
         [
-            "La Divina Commedia",
+            "A Divina Comédia",
             "Dante Alighieri",
             "poetry",
             "1998",
@@ -71,7 +71,7 @@
             "pt_BR"
         ],
         [
-            "The Hitchhiker's Guide to the Galaxy",
+            "O Guia do Mochileiro das Galáxias",
             "Douglas Noel Adams",
             "fiction",
             "2004",
@@ -113,7 +113,7 @@
             "pt_BR"
         ],
         [
-            "1889-1930",
+            "Degola e Degoladores no Rio Grande do Sul",
             "Ney Eduardo Possapp d'Avila",
             "nonfiction",
             "2012",
@@ -141,21 +141,21 @@
             "pt_BR"
         ],
         [
-            "Receitas com pitadas literárias",
+            "Está na mesa",
             "Christian Bauer",
             "cookbook",
             "2005",
             "pt_BR"
         ],
         [
-            "Hoika nikoauxeia",
+            "Ética a Nicômaco",
             "Aristóteles",
             "nonfiction",
             "2017",
             "gr"
         ],
         [
-            "A Romance of Many Dimensions",
+            "Flatland",
             "A. Square",
             "fiction",
             "1992",
@@ -169,7 +169,7 @@
             "en"
         ],
         [
-            "Half a Yellow Sun",
+            "Meio Sol Amarelo",
             "Chimamanda Ngozi Adichie",
             "fiction",
             "2008",
@@ -190,7 +190,7 @@
             "es_UY"
         ],
         [
-            "Generic Programming and Design Patterns Applied",
+            "Modern C++ Design",
             "Andrei Alexandrescu",
             "nonfiction",
             "2001",
@@ -204,14 +204,14 @@
             "pt_BR"
         ],
         [
-            "The Origins of Totalitarianism",
+            "Origens do totalitarismo",
             "Johanna Arendt",
             "nonfiction",
             "2014",
             "en"
         ],
         [
-            "The testaments",
+            "Os testamentos",
             "Margaret Atwood",
             "fiction",
             "2019",
@@ -225,35 +225,35 @@
             "pt_BR"
         ],
         [
-            "Una oportunidad para imaginar otros mundos",
+            "O bem viver",
             "Alberto Acosta",
             "nonfiction",
             "2016",
             "es"
         ],
         [
-            "The handmaid's tale",
+            "O conto da aia",
             "Margaret Atwood",
             "fiction",
             "2017",
             "en"
         ],
         [
-            "Life, the Universe and Everything",
+            "A Vida, o Universo e Tudo Mais",
             "Douglas Noel Adams",
             "fiction",
             "2005",
             "en"
         ],
         [
-            "The Dilbert Principle",
+            "O princípio Dilbert",
             "Scott Adams",
             "comics",
             "1997",
             "en"
         ],
         [
-            "The Restaurant at the End of the Universe",
+            "O Restaurante no Fim do Universo",
             "Douglas Noel Adams",
             "fiction",
             "2004",
@@ -267,14 +267,14 @@
             "pt_BR"
         ],
         [
-            "Saídas do labirinto capitalista",
+            "Pós-extrativismo e decrescimento",
             "Ulrich Brand",
             "nonfiction",
             "2018",
             "pt_BR"
         ],
         [
-            "Persuasion",
+            "Persuasão",
             "Jane Austen",
             "fiction",
             "2015",
@@ -295,14 +295,14 @@
             "pt_BR"
         ],
         [
-            "Five Decades of His Finest Works",
+            "Sergio Aragonés",
             "Sergio Aragonés Domenech",
             "comics",
             "2010",
             "en"
         ],
         [
-            "Electronics for Earthlings",
+            "There Are No Electrons",
             "Kenneth Amdahl",
             "fiction",
             "1998",
@@ -316,7 +316,7 @@
             "en_US"
         ],
         [
-            "Pastora de cabras, ou A volta da filha pródiga, melodramático folhetim em cinco sensacionais episódios e comovente epílogo: emoção e suspense!",
+            "Tieta do Agreste",
             "Jorge Amado",
             "fiction",
             "",
@@ -337,42 +337,42 @@
             "pt_BR"
         ],
         [
-            "1001 Natural Wonders You Must See Before You Die",
+            "1001 Maravilhas Naturais Para Ver Antes de Morrer",
             "",
             "guidebook",
             "2009",
             "en"
         ],
         [
-            "Antonia and her daughters",
+            "Antonia e suas filhas",
             "Marlena de Blasi",
             "travelogue",
             "2013",
             "en"
         ],
         [
-            "Vida e Morte",
+            "Ariano Suassuna",
             "Medeiros Braga",
             "cordell",
             "2021",
             "pt_BR"
         ],
         [
-            "A memoir by Lady Trent",
+            "A natural history of dragons",
             "Bryn Neuenschwander",
             "fiction",
             "2014",
             "en"
         ],
         [
-            "Parable of the Sower",
+            "A parábola do semeador",
             "Octavia Estelle Butler",
             "fiction",
             "2018",
             "en_US"
         ],
         [
-            "From the best in the world",
+            "Board Game Design Advice",
             "",
             "nonfiction",
             "2018",
@@ -400,7 +400,7 @@
             "pt_BR"
         ],
         [
-            "A cura di Marco Revelli",
+            "Democracia e segredo",
             "Norberto Bobbio",
             "nonfiction",
             "2015",
@@ -414,14 +414,14 @@
             "es"
         ],
         [
-            "Ragione e significati di una distinzione politica",
+            "Direita e Esquerda",
             "Norberto Bobbio",
             "nonfiction",
             "1995",
             "it_IT"
         ],
         [
-            "Dei delitti e delle penne",
+            "Dos delitos e das penas",
             "Cesare Beccaria",
             "nonfiction",
             "2012",
@@ -435,21 +435,21 @@
             "en"
         ],
         [
-            "Elogio della mitezza e altri scritti morali",
+            "Elogio da serenidade",
             "Norberto Bobbio",
             "nonfiction",
             "2011",
             "it"
         ],
         [
-            "Chasing the muse",
+            "Em busca de inspiração",
             "Richard Bach",
             "fiction",
             "2004",
             "en"
         ],
         [
-            "An Indian History of the American West",
+            "Enterrem Meu Coração na Curva do Rio",
             "Dorris Alexander \"Dee\" Brown",
             "nonfiction",
             "2005",
@@ -463,14 +463,14 @@
             "pt_BR"
         ],
         [
-            "Um manual de criação literária",
+            "Escrever ficção",
             "Luiz Antonio de Assis Brasil",
             "manual",
             "2019",
             "pt_BR"
         ],
         [
-            "Frammenti di un dizionario politico",
+            "Estado, governo, sociedade",
             "Norberto Bobbio",
             "nonfiction",
             "2017",
@@ -484,14 +484,14 @@
             "en"
         ],
         [
-            "VIII Workshop sobre Software Livre",
+            "fisl 8.0",
             "",
             "proceedings",
             "2007",
             "es"
         ],
         [
-            "Goya black paintings",
+            "Gallery guide",
             "Valeriano Bozal",
             "guidebook",
             "2005",
@@ -519,14 +519,14 @@
             "fr_FR"
         ],
         [
-            "GURPS Wild Cards",
+            "GRUPS Cartas Selvagens",
             "John J. Miller",
             "handbook",
             "1994",
             "en_US"
         ],
         [
-            "Laços de sangue",
+            "Kindred",
             "Octavia E. Butler",
             "fiction",
             "2017",
@@ -554,77 +554,77 @@
             "pt_BR"
         ],
         [
-            "Liquid Moderity",
+            "Modernidade Líquida",
             "Zygmunt Bauman",
             "nonfiction",
             "2001",
             "en"
         ],
         [
-            "Introduction to the Theory of Narrative",
+            "Narratology",
             "Maria Gertrudis Bal",
             "textbook",
             "2009",
             "en"
         ],
         [
-            "The coincidence makers",
+            "Os criadores de coincidências",
             "Yoav Blum",
             "fiction",
             "2017",
             "en"
         ],
         [
-            "The Da Vinci Code",
+            "O Código Da Vinci",
             "Daniel Brown",
             "fiction",
             "2004",
             "en"
         ],
         [
-            "Una difesa delle regole del gioco",
+            "O futuro da democracia",
             "Norberto Bobbio",
             "textbook",
             "2017",
             "it"
         ],
         [
-            "The pie book",
+            "O grande livro das tortas",
             "Caroline Bretherton",
             "cookbook",
             "2013",
             "en"
         ],
         [
-            "Recorded Attacks",
+            "O guia de sobrevivência a zumbis",
             "Max Brooks",
             "fiction",
             "2011",
             "en"
         ],
         [
-            "The ressurectionist",
+            "O ladrão de cadáveres",
             "James Bradley",
             "fiction",
             "2013",
             "en_AU"
         ],
         [
-            "The Age of Fable",
+            "O Livro da Mitologia",
             "Thomas Bulfinch",
             "fiction",
             "2013",
             "en"
         ],
         [
-            "The Book of Were-Wolves",
+            "O Livro dos Lobisomens",
             "Sabine Baring-Gould",
             "fiction",
             "2008",
             "en"
         ],
         [
-            "el libro de los seres imaginarios",
+            "O livro dos seres imaginários",
             "Jorge Luis Borges",
             "dictionary",
             "2011",
@@ -645,21 +645,21 @@
             "en"
         ],
         [
-            "Lições de filosofia do direito",
+            "O positivismo jurídico",
             "Norberto Bobbio",
             "textbook",
             "2006",
             "it"
         ],
         [
-            "uma introdução a Kelsen, Ross e Hart",
+            "O Positivismo Jurídico Contemporâneo",
             "Luis Fernando Barzotto",
             "nonfiction",
             "2007",
             "pt_BR"
         ],
         [
-            "Relatos ao longo de andanças por 82 países",
+            "Por todos os continentes",
             "Roberto Menna Barreto",
             "travelogue",
             "2003",
@@ -680,28 +680,28 @@
             "en"
         ],
         [
-            "A Nova Fronteira da Inteliência nas Máquinas",
+            "Sociedades Artificiais",
             "",
             "nonfiction",
             "2003",
             "pt_BR"
         ],
         [
-            "Ice Cream Galore",
+            "Sorvetes para todos os gostos",
             "Caroline Barty",
             "cookbook",
             "2011",
             "en"
         ],
         [
-            "A manual for fiction writers",
+            "Telling lies for fun and profit",
             "Lawrence Block",
             "nonfiction",
             "1994",
             "en_US"
         ],
         [
-            "Teoria generale del diritto",
+            "Teoria geral do direito",
             "Norberto Bobbio",
             "textbook",
             "2010",
@@ -715,7 +715,7 @@
             "en"
         ],
         [
-            "A Global History",
+            "The Earth and Its Peoples",
             "David Northrup",
             "textbook",
             "2011",
@@ -729,7 +729,7 @@
             "en"
         ],
         [
-            "A memoir by Lady Trent",
+            "The tropic of serpents",
             "Bryn Neuenschwander",
             "fiction",
             "2014",
@@ -743,21 +743,21 @@
             "en_US"
         ],
         [
-            "A love story",
+            "Um certo verão na Sicília",
             "Marlena de Blasi",
             "nonfiction",
             "2009",
             "en"
         ],
         [
-            "An irreverent guide",
+            "Volta ao mundo",
             "Laurie Woolever",
             "travelogue",
             "2021",
             "en"
         ],
         [
-            "A memoir by Lady Trent",
+            "Voyage of the Basilisk",
             "Bryn Neuenschwander",
             "fiction",
             "2015",
@@ -771,7 +771,7 @@
             "en"
         ],
         [
-            "A General Report",
+            "Acesso à justiça",
             "Bryant Garth",
             "nonfiction",
             "1988",
@@ -792,14 +792,14 @@
             "pt_BR"
         ],
         [
-            "Alice's Adventures in Wonderland",
+            "Alice no País das Maravilhas",
             "Charles Lutwidge Dodgson",
             "fiction",
             "2003",
             "en"
         ],
         [
-            "And What Alice Found There",
+            "Alice no País do Espelho",
             "Charles Lutwidge Dodgson",
             "fiction",
             "2004",
@@ -820,14 +820,14 @@
             "pt_BR"
         ],
         [
-            "Murder on the links",
+            "Assassinato no campo de golfe",
             "Agatha Christie",
             "fiction",
             "2000",
             "en"
         ],
         [
-            "The Rings of Kether",
+            "As Coligações de Kether",
             "Andrew Chapman",
             "gamebook",
             "",
@@ -848,42 +848,42 @@
             "pt_BR"
         ],
         [
-            "The Judas Tree",
+            "A árvore de Judas",
             "Archibald Joseph Cronin",
             "fiction",
             "1966",
             "en"
         ],
         [
-            "Peril at end house",
+            "A casa do penhasco",
             "Agatha Christie",
             "fiction",
             "",
             "en"
         ],
         [
-            "Crooked house",
+            "A casa torta",
             "Agatha Christie",
             "fiction",
             "",
             "en"
         ],
         [
-            "Ancient knowledge for modern minds",
+            "A Classical Primer",
             "Dan Crompton",
             "nonfiction",
             "2016",
             "en"
         ],
         [
-            "Hunger games - mockingjay",
+            "A esperança",
             "Suzanne Collins",
             "fiction",
             "2011",
             "en_US"
         ],
         [
-            "Dead man's folly",
+            "A extravagância do morto",
             "Agatha Christie",
             "fiction",
             "1980",
@@ -897,7 +897,7 @@
             "pt_BR"
         ],
         [
-            "The Historic Quest for an Absolute System of Measurement",
+            "A Medida do Mundo",
             "Robert P. Crease",
             "nonfiction",
             "2013",
@@ -911,35 +911,35 @@
             "pt_BR"
         ],
         [
-            "Death in the Nile",
+            "A morte no Nilo",
             "Agatha Christie",
             "fiction",
             "1987",
             "en"
         ],
         [
-            "La Tresse",
+            "A trança",
             "Laetitia Colombani",
             "fiction",
             "2020",
             "fr"
         ],
         [
-            "La suite de l'aventure de Papillon",
+            "Banco",
             "Papillon",
             "biography",
             "1972",
             "fr_FR"
         ],
         [
-            "Libraries in the Ancient World",
+            "Bibliotecas no Mundo Antigo",
             "Lionel Casson",
             "nonfiction",
             "2018",
             "en"
         ],
         [
-            "Contos",
+            "Cada homem é uma raça",
             "Mia Couto",
             "fiction",
             "2013",
@@ -953,14 +953,14 @@
             "pt_BR"
         ],
         [
-            "Curtain",
+            "Cai o pano",
             "Agatha Christie",
             "fiction",
             "",
             "en"
         ],
         [
-            "El libro de los juegos tradicionales en Uruguay",
+            "Cazacurioso",
             "Roxana Fernández",
             "nonfiction",
             "2013",
@@ -1030,14 +1030,14 @@
             "pt_BR"
         ],
         [
-            "After the funeral",
+            "Depois do funeral",
             "Agatha Christie",
             "fiction",
             "1976",
             "en"
         ],
         [
-            "Drawing for the artistically undiscovered",
+            "Desenho para descobrir o artista interior",
             "Quentin Blake",
             "drawing",
             "2015",
@@ -1065,35 +1065,35 @@
             "pt_BR"
         ],
         [
-            "Discours sur l'esprit positif",
+            "Discurso sobre o espírito positivo",
             "Augusto Comte",
             "nonfiction",
             "",
             "fr"
         ],
         [
-            "Como operar seu micro",
+            "Dominando o Expert",
             "Denise Santoro Cruz",
             "manual",
             "1985",
             "pt_BR"
         ],
         [
-            "El Ingenioso Hidalgo Don Quixote de la Mancha",
+            "Don Quijote de la Mancha",
             "Miguel de Cervantes Saavedra",
             "fiction",
             "2004",
             "es_ES"
         ],
         [
-            "Elogio dei giudici scritto da un avvocato",
+            "Eles, os juízes, vistos por um advogado",
             "Piero Calamandrei",
             "nonfiction",
             "2015",
             "it"
         ],
         [
-            "Catching fire",
+            "Em chamas",
             "Suzanne Collins",
             "fiction",
             "2011",
@@ -1107,35 +1107,35 @@
             "tr"
         ],
         [
-            "A Guerra dos Farrapos vista por dez cartunistas Gaúchos",
+            "E o Bento Levou...",
             "Uberti",
             "comics",
             "1985",
             "pt_BR"
         ],
         [
-            "Psicanálise nas Histórias Infantis",
+            "Fadas no divã",
             "Mário Corso",
             "nonfiction",
             "2007",
             "pt_BR"
         ],
         [
-            "The Warrior's Way",
+            "Fúria de Príncipes",
             "Martin Allen",
             "gamebook",
             "1991",
             "en"
         ],
         [
-            "The Warrior's Way",
+            "Fúria de Príncipes",
             "Martin Allen",
             "gamebook",
             "1991",
             "en"
         ],
         [
-            "Methods, Tools, and Applications",
+            "Generative Programming",
             "Ulrich W. Eisenecker",
             "nonfiction",
             "2000",
@@ -1156,7 +1156,7 @@
             "pt_BR"
         ],
         [
-            "How intelligence increases when you think less",
+            "Hare brain, tortoise mind",
             "Guy Claxton",
             "nonfiction",
             "",
@@ -1184,7 +1184,7 @@
             "pt_BR"
         ],
         [
-            "The hunger games",
+            "Jogos vorazes",
             "Suzanne Collins",
             "fiction",
             "2010",
@@ -1198,7 +1198,7 @@
             "pt_BR"
         ],
         [
-            "Herói ou bandido?",
+            "Lampião",
             "João Firmino Cabral",
             "nonfiction",
             "2010",
@@ -1233,14 +1233,14 @@
             "pt_BR"
         ],
         [
-            "Guia turístico e literário da capital portuguesa",
+            "Lisboa em Pessoa",
             "João Correia Filho",
             "guidebook",
             "2011",
             "pt_BR"
         ],
         [
-            "Librerias",
+            "Livrarias",
             "Jorge Carrión",
             "nonfiction",
             "2020",
@@ -1268,14 +1268,14 @@
             "pt_BR"
         ],
         [
-            "Teoria e prática",
+            "Manual de prática civil",
             "Jaqueline Mielke Silva",
             "textbook",
             "2018",
             "pt_BR"
         ],
         [
-            "A corrupção se olha no espelho",
+            "Mãos Limpas e Lava Jato",
             "Rodrigo Chemin",
             "nonfiction",
             "2018",
@@ -1296,14 +1296,14 @@
             "pt_BR"
         ],
         [
-            "O valor patrimonial das residências da São Luís Antiga através da Literatura",
+            "Moradas e memórias",
             "Flaviano Menezes da Costa",
             "nonfiction",
             "2015",
             "pt_BR"
         ],
         [
-            "Extreme Nature",
+            "Natureza Radical",
             "Mark Carwardine",
             "nonfiction",
             "2005",
@@ -1317,14 +1317,14 @@
             "pt_BR"
         ],
         [
-            "Five little pigs",
+            "Os cinco porquinhos",
             "Agatha Christie",
             "fiction",
             "",
             "en"
         ],
         [
-            "Deliciosas histórias do mundo do chocolate",
+            "O cacau é show",
             "Alexandre Tadeu da Costa",
             "nonfiction cookbook biography",
             "2008",
@@ -1352,56 +1352,56 @@
             "The Sittaford Mistery"
         ],
         [
-            "The mistery of the blue train",
+            "O mistério do trem azul",
             "Agatha Christie",
             "fiction",
             "",
             "en"
         ],
         [
-            "Adaptação para o mundo da criança",
+            "O Mundo das Lendas",
             "Dirceu Antônio Chiesa",
             "fiction",
             "1986",
             "pt_BR"
         ],
         [
-            "The Eighth Day",
+            "O oitavo dia",
             "John Case",
             "fiction",
             "2006",
             "en_US"
         ],
         [
-            "The turning point",
+            "O ponto de mutação",
             "Fritjof Capra",
             "nonfiction",
             "2006",
             "en"
         ],
         [
-            "The Meditations of Fra Mauro, Cartographer to the Court of Venice",
+            "O sonho do cartógrafo",
             "James Cowan",
             "fiction",
             "1997",
             "en"
         ],
         [
-            "The unexpected guest",
+            "O visitante inesperado",
             "Charles Osborne",
             "fiction",
             "2000",
             "en"
         ],
         [
-            "Passenger to Frankfurt",
+            "Passageiro para Frankfurt",
             "Agatha Christie",
             "fiction",
             "",
             "en"
         ],
         [
-            "Why didn't they ask Evans?",
+            "Por que não pediram a Evans?",
             "Agatha Christie",
             "fiction",
             "2006",
@@ -1415,7 +1415,7 @@
             "pt_BR"
         ],
         [
-            "Rebel",
+            "Rebelde",
             "Bernard Cornwell",
             "fiction",
             "2014",
@@ -1436,14 +1436,14 @@
             "en"
         ],
         [
-            "Religião no Povo",
+            "Superstição no Brasil",
             "Luís da Câmara Cascudo",
             "nonfiction",
             "2002",
             "pt_BR"
         ],
         [
-            "A critical introduction",
+            "Teorias da democracia",
             "Frank Cunningham",
             "textbook",
             "2009",
@@ -1464,14 +1464,14 @@
             "pt_MZ"
         ],
         [
-            "A euphonious and illuminating guide to building successful software",
+            "The Art of Interactive Design",
             "Chris Crawford",
             "nonfiction",
             "2003",
             "en_US"
         ],
         [
-            "An authoritative text; biographical and historical contexts; criticism",
+            "The Awakening",
             "Kate Chopin",
             "fiction",
             "1994",
@@ -1492,14 +1492,14 @@
             "en"
         ],
         [
-            "Conficções de uma psicanalista",
+            "Tomo conta do mundo",
             "Diana Lichtenstein Corso",
             "fiction",
             "2014",
             "pt_BR"
         ],
         [
-            "They do it with mirrors",
+            "Um passe de mágica",
             "Agatha Christie",
             "fiction",
             "2006",
@@ -1527,49 +1527,49 @@
             "en_US"
         ],
         [
-            "Juegos para seguir jugando",
+            "Amuyu Kudehue",
             "Elda Durán",
             "nonfiction",
             "2013",
             "es_AR"
         ],
         [
-            "The Adventure of the Lion's Mane",
+            "A juba do leão e outras histórias",
             "Sir Arthur Conan Doyle",
             "fiction",
             "2001",
             "en"
         ],
         [
-            "Em busca de um animal que nunca existiu",
+            "Bivar",
             "Fernando Duval",
             "fiction",
             "2013",
             "pt_BR"
         ],
         [
-            "Relatos sobre mulheres",
+            "Cadeia",
             "Debora Diniz",
             "nonfiction",
             "2015",
             "pt_BR"
         ],
         [
-            "How to Design a Typeface",
+            "Como Criar em Tipografia",
             "",
             "nonfiction",
             "2011",
             "en"
         ],
         [
-            "Prestupleniye i nakazaniye",
+            "Crime e Castigo",
             "Фёдор Миха́йлович Достое́вский",
             "fiction",
             "2001",
             "ru"
         ],
         [
-            "Introdução ao Direito Processual Civil e Processo de Conhecimento",
+            "Curso de direito processual civil",
             "Fredie Didier Jr.",
             "manual",
             "2014",
@@ -1583,21 +1583,21 @@
             "pt_BR"
         ],
         [
-            "Discours de la méthode pour bien conduire sa raison, et chercher la vérité dans les sciences",
+            "Discurso do Método",
             "René Descartes",
             "nonfiction",
             "2006",
             "fr"
         ],
         [
-            "Tons of fun",
+            "Garfield",
             "James Robert Davis",
             "comics",
             "2006",
             "en"
         ],
         [
-            "Life in the fat lane",
+            "Garfield Numa Boa",
             "James Robert Davis",
             "comics",
             "2006",
@@ -1611,35 +1611,35 @@
             "en"
         ],
         [
-            "The Complete Guide to Our Imagined Worlds",
+            "Mitologia",
             "Cristopher Dell",
             "nonfiction",
             "2016",
             "en"
         ],
         [
-            "Uma história da trapaça no Brasil",
+            "Os contos e os vigários",
             "José Augusto Dias Júnior",
             "nonfiction",
             "2010",
             "pt_BR"
         ],
         [
-            "The Hound of the Baskervilles",
+            "O cão dos Baskervilles",
             "Sir Arthur Conan Doyle",
             "fiction",
             "2003",
             "en"
         ],
         [
-            "Brasil",
+            "O Guia dos Curiosos",
             "Marcelo Duarte",
             "nonfiction",
             "1999",
             "pt_BR"
         ],
         [
-            "Esportes",
+            "O Guia dos Curiosos",
             "Marcelo Duarte",
             "nonfiction",
             "1996",
@@ -1660,35 +1660,35 @@
             "pt_BR"
         ],
         [
-            "Tistou les pouces verts",
+            "O menino do dedo verde",
             "Maurice Druon",
             "fiction",
             "1973",
             "fr_FR"
         ],
         [
-            "The adventures of Sherlock Holmes",
+            "O roubo da coroa de berilos e outras aventuras",
             "Sir Arthur Conan Doyle",
             "fiction",
             "2003",
             "en"
         ],
         [
-            "The Sign of Four",
+            "O signo dos quatro",
             "Sir Arthur Conan Doyle",
             "fiction",
             "2003",
             "en"
         ],
         [
-            "Les principes de la philosophy",
+            "Princípios da Filosofia",
             "René Descartes",
             "nonfiction",
             "2005",
             "fr_FR"
         ],
         [
-            "Religion and Magic in Ancient Egypt",
+            "Religião e Magia no Antigo Egito",
             "Rosalie David",
             "nonfiction",
             "2011",
@@ -1709,14 +1709,14 @@
             "en_US"
         ],
         [
-            "Máquina Universais e Computabilidade",
+            "Teoria da Computação",
             "Paulo Blauth Menezes",
             "textbook",
             "2000",
             "pt_BR"
         ],
         [
-            "Strange Stories of Mysteries, Crimes and Eccentrics",
+            "The A-Z of Curious County Durham",
             "Martin Dufferwiel",
             "nonfiction",
             "2014",
@@ -1730,14 +1730,14 @@
             "en"
         ],
         [
-            "A study in scarlet",
+            "Um estudo em vermelho",
             "Sir Arthur Conan Doyle",
             "fiction",
             "1998",
             "en"
         ],
         [
-            "Killing Mr. Griffin",
+            "Vamos matar o professor?",
             "Lois Duncan",
             "fiction",
             "",
@@ -1751,14 +1751,14 @@
             "pt_BR"
         ],
         [
-            "How high-tech tools profile, police and punish the poor",
+            "Automating inequality",
             "Virginia Eubanks",
             "nonfiction",
             "2018",
             "en_US"
         ],
         [
-            "L'Isola del Giorno Prima",
+            "A Ilha do Dia Anterior",
             "Umberto Eco",
             "fiction",
             "1995",
@@ -1779,14 +1779,14 @@
             "pt_BR"
         ],
         [
-            "Dall'albero al labirinto",
+            "Da árvore ao labirinto",
             "Umberto Eco",
             "nonfiction",
             "2013",
             "it_IT"
         ],
         [
-            "Stultitiae Laus",
+            "Elogio da Loucura",
             "Erasmus of Rotterdam",
             "nonfiction",
             "2005",
@@ -1800,7 +1800,7 @@
             "en"
         ],
         [
-            "What games can teach us about life, the universe and ourselves",
+            "Gametek",
             "Geoffrey Engelstein",
             "nonfiction",
             "",
@@ -1814,42 +1814,42 @@
             "es_AR"
         ],
         [
-            "N'ésperez pas vou débarrasser des livres",
+            "Não contem com o fim do livro",
             "Jean-Claude Carrière",
             "nonfiction",
             "2010",
             "fr"
         ],
         [
-            "Numero zero",
+            "Número Zero",
             "Umberto Eco",
             "fiction",
             "2015",
             "it_IT"
         ],
         [
-            "Il cimitero di Praga",
+            "O cemitério de praga",
             "Umberto Eco",
             "nonfiction",
             "2016",
             "it"
         ],
         [
-            "The circle",
+            "O círculo",
             "Dave Eggers",
             "fiction",
             "2014",
             "en_US"
         ],
         [
-            "Il nome della rosa",
+            "O Nome da Rosa",
             "Umberto Eco",
             "fiction",
             "2002",
             "it"
         ],
         [
-            "Il Pendolo di Foucault",
+            "O Pêndulo de Foucault",
             "Umberto Eco",
             "fiction",
             "2009",
@@ -1877,7 +1877,7 @@
             "pt_BR"
         ],
         [
-            "Deuses, heróis, monstros e guerras da tradição greco-romana",
+            "As 100 Melhores Historias da Mitologia",
             "Carmen Seganfredo",
             "fiction",
             "2003",
@@ -1919,28 +1919,28 @@
             "pt_BR"
         ],
         [
-            "Die Traumdeutung",
+            "A interpretação dos sonhos",
             "Sigismund Schlomo Freud",
             "nonfiction",
             "2001",
             "de"
         ],
         [
-            "How, Why, Where, and When Humankind Has Gotten Merry from the Stone Age to the Present",
+            "A Short History of Drunkenness",
             "Mark Forsyth",
             "nonfiction",
             "2017",
             "en"
         ],
         [
-            "Cahir de gribouillages pour les adultes qui s'ennuient au bureau",
+            "Caderno de rabiscos para adultos entediados no trabalho",
             "Claire Fäy",
             "drawing",
             "2008",
             "fr_FR"
         ],
         [
-            "Women, the Body and Primitive Accumulation",
+            "Mulheres, corpo e acumulação primitiva",
             "Silvia Federici",
             "nonfiction",
             "2017",
@@ -1954,14 +1954,14 @@
             "pt_BR"
         ],
         [
-            "Método prático e rápido para principiantes",
+            "Como é Fácil Aprender Xadrez",
             "J. Fischer",
             "nonfiction",
             "",
             "pt_BR"
         ],
         [
-            "Essai sur l'histoire l'Ordre des Templiers",
+            "Ensaio sobre a história da Ordem dos Templários",
             "Édouard Fraissinet",
             "nonfiction",
             "2005",
@@ -1975,7 +1975,7 @@
             "pt_BR"
         ],
         [
-            "Anotologia bilingue",
+            "Poesia",
             "Erich Fried",
             "poetry",
             "2012",
@@ -1989,77 +1989,77 @@
             "pt_BR"
         ],
         [
-            "Técnica, decisão, dominação",
+            "Introdução ao estudo do direito",
             "Tercio Sampaio Ferraz Jr.",
             "textbook",
             "2013",
             "pt_BR"
         ],
         [
-            "Poder, Tempo e Memória",
+            "Juca Tigre e o Caudilhismo Maragato",
             "Elio Chaves Flores",
             "biography",
             "1995",
             "pt_BR"
         ],
         [
-            "A Literary Anthology",
+            "London",
             "Amy Lowell",
             "poetry",
             "2014",
             "en"
         ],
         [
-            "A Bíblia do Caos",
+            "Millôr Definitivo",
             "Millôr Fernandes",
             "dictionary",
             "2202",
             "pt_BR"
         ],
         [
-            "Minidicionário Aurélio",
+            "Minidicionário da Língua Portuguesa",
             "",
             "dictionary",
             "1988",
             "pt_BR"
         ],
         [
-            "Uma viagem pelos destinos mais polêmicos do mundo",
+            "Não conta lá em casa",
             "André Fran Pires",
             "travelogue",
             "2014",
             "pt_BR"
         ],
         [
-            "Formação do patronato político brasileiro",
+            "Os donos do poder",
             "Raymundo Faoro",
             "nonfiction",
             "2000",
             "pt_BR"
         ],
         [
-            "The Case of the Speluncean Explorers",
+            "O caso dos exploradores de caverna",
             "Lon Luvois Fuller",
             "fiction",
             "2012",
             "en"
         ],
         [
-            "The Evening and the Morning",
+            "O crepúsculo e a aurora",
             "Ken Follet",
             "fiction",
             "2020",
             "en_US"
         ],
         [
-            "The day of the jackal",
+            "O dia do chacal",
             "Frederick Forsyth",
             "fiction",
             "",
             "en"
         ],
         [
-            "A history",
+            "O fim do mundo",
             "Otto Friedrich",
             "nonfiction",
             "2000",
@@ -2073,14 +2073,14 @@
             "pt_BR"
         ],
         [
-            "O Livro Vermelho dos Pensamentos de Millôr Fernandes",
+            "O Livro Vermelho dos Pensamentos de Millôr",
             "Milton Viola Fernandes",
             "nonfiction",
             "2005",
             "pt_BR"
         ],
         [
-            "From the Industrial Revolution to the Globalization of Democracy",
+            "Political Order and Political Decay",
             "Francis Fukuyama",
             "nonfiction",
             "2015",
@@ -2094,21 +2094,21 @@
             "fr"
         ],
         [
-            "Ita Purajei Tava - Piedra y pueblo que canta",
+            "San Miguel",
             "Pico Decuadra",
             "nonfiction",
             "2010",
             "gn"
         ],
         [
-            "No comebacks",
+            "Sem perdão",
             "Frederick Forsyth",
             "fiction",
             "2000",
             "en"
         ],
         [
-            "The Protocols",
+            "TCP/IP Illustrated",
             "W. Richard Stevens",
             "nonfiction",
             "2012",
@@ -2129,14 +2129,14 @@
             "en"
         ],
         [
-            "From Prehuman Times to the French Revolution",
+            "The Origins of Political Order",
             "Yoshihiro Francis Fukuyama",
             "nonfiction",
             "2012",
             "en_US"
         ],
         [
-            "Violencia y proscripción en la Argentina del siglo XX",
+            "Una historia de la censura",
             "Fernando Ferreira",
             "nonfiction",
             "2000",
@@ -2150,70 +2150,70 @@
             "pt_BR"
         ],
         [
-            "Surveiller et punir",
+            "Vigiar e punir",
             "Michel Foucault",
             "nonfiction",
             "2016",
             "fr"
         ],
         [
-            "Dos Mitos de Criação ao Big-Bang",
+            "A Dança do Universo",
             "Marcelo Gleiser",
             "nonfiction",
             "1999",
             "pt_BR"
         ],
         [
-            "The Cartoon History of the Universe",
+            "A história do universo em quadrinhos",
             "Larry Gonick",
             "comics",
             "1992",
             "en"
         ],
         [
-            "The Cartoon History of the Universe",
+            "A história do universo em quadrinhos",
             "Larry Gonick",
             "comics",
             "1991",
             "en"
         ],
         [
-            "The Cartoon History of the Universe",
+            "A história do universo em quadrinhos",
             "Larry Gonick",
             "comics",
             "1993",
             "en"
         ],
         [
-            "Murphy Computergesetze",
+            "A lei de Murphy na era da informática",
             "Joachim Graf",
             "fiction",
             "1997",
             "de"
         ],
         [
-            "The rise of pointless work and what we can do about it",
+            "Bullshit jobs",
             "David Graeber",
             "nonfiction",
             "2018",
             "en"
         ],
         [
-            "Cambridge International Dictionary of English",
+            "Cambridge Advanced Learner's Dictionary",
             "",
             "dictionary",
             "2003",
             "en"
         ],
         [
-            "Cities for people",
+            "Cidades para pessoas",
             "Jan Gehl",
             "nonfiction",
             "2015",
             "en"
         ],
         [
-            "a Skeptic Makes Peace with Marriage",
+            "Comprometida",
             "Elizabeth Gilbert",
             "nonfiction",
             "2010",
@@ -2227,21 +2227,21 @@
             "en"
         ],
         [
-            "American gods",
+            "Deuses americanos",
             "Neil Gaiman",
             "fiction",
             "2016",
             "en"
         ],
         [
-            "50 anos sem medo",
+            "Diário de um Repórter",
             "Flávio Alcaraz Gomes",
             "travelogue",
             "1995",
             "pt_BR"
         ],
         [
-            "Parte geral",
+            "Direito civil brasileiro",
             "Carlos Roberto Gonçalves",
             "manual",
             "2014",
@@ -2262,14 +2262,14 @@
             "pt_BR"
         ],
         [
-            "Orient Express",
+            "Expresso do oriente",
             "Graham Greene",
             "fiction",
             "2000",
             "en"
         ],
         [
-            "Traditional Home-made Cakes and Pastries",
+            "Favourite Teatime Recipes",
             "Carole Gregory",
             "cookbook",
             "",
@@ -2304,7 +2304,7 @@
             "en_US"
         ],
         [
-            "Techniques for 21st Century Fiction",
+            "Interactive Storytelling",
             "Andrew S. Glassner",
             "nonfiction",
             "2004",
@@ -2318,7 +2318,7 @@
             "es_UY"
         ],
         [
-            "The bodega",
+            "La bodega",
             "Noah Gordon",
             "fiction",
             "2008",
@@ -2346,7 +2346,7 @@
             "pt_BR"
         ],
         [
-            "Norse Mythology",
+            "Mitologia Nórdica",
             "Neil Gaiman",
             "fiction",
             "2017",
@@ -2360,56 +2360,56 @@
             "ru"
         ],
         [
-            "Pride and Prejudice and Zombies",
+            "Orgulho e preconceito e zumbis",
             "Seth Grahame-Smith",
             "fiction",
             "2010",
             "en"
         ],
         [
-            "Anansi boys",
+            "Os filhos de Anansi",
             "Neil Gaiman",
             "fiction",
             "2015",
             "en"
         ],
         [
-            "Die Leiden des Jungen Werthers",
+            "Os sofrimentos do jovem Werther",
             "Johann Wolfgang Goethe",
             "fiction",
             "2004",
             "de"
         ],
         [
-            "Kabalmysteriet",
+            "O dia do curinga",
             "Jostein Gaarder",
             "fiction",
             "1996",
             "no"
         ],
         [
-            "The Book of Religions",
+            "O Livro das Religiões",
             "Henry Notaker",
             "nonfiction",
             "2001",
             "en"
         ],
         [
-            "The Tea Book",
+            "O Livro do Chá",
             "Linda Gaylard",
             "cookbook",
             "2016",
             "en"
         ],
         [
-            "La naissance du Purgatoire",
+            "O nascimento do purgatório",
             "Jacques Le Goff",
             "nonfiction",
             "2017",
             "fr"
         ],
         [
-            "The Ocean at the End of the Lane",
+            "O oceano no fim do caminho",
             "Neil Gaiman",
             "fiction",
             "2013",
@@ -2430,42 +2430,42 @@
             "pt_BR"
         ],
         [
-            "Lord of the flies",
+            "O senhor das moscas",
             "William Golding",
             "fiction",
             "2014",
             "en"
         ],
         [
-            "Contra el viento y el olvido",
+            "Patagonia",
             "Sergio J. Giaquinta",
             "nonfiction",
             "2013",
             "es_AR"
         ],
         [
-            "(a interpretação/aplicação do direito e os princípios)",
+            "Por que tenho medo dos juízes",
             "Eros Roberto Grau",
             "nonfiction",
             "2017",
             "pt_BR"
         ],
         [
-            "XV Brazilian Symposium on Computer Graphics and Image Processing",
+            "Proceedings of SIBGRAPI 2002",
             "",
             "proceedings",
             "2002",
             "en"
         ],
         [
-            "History, terroirs, varieties",
+            "Tea",
             "Hugo Américi",
             "nonfiction",
             "2014",
             "fr"
         ],
         [
-            "Transmissão e Recepção AM/FM e Sistemas Pulsados",
+            "Telecomunicações",
             "Alcides Tadeu Gomes",
             "textbook",
             "1998",
@@ -2507,7 +2507,7 @@
             "en_US"
         ],
         [
-            "Why Some People See Things Clearly and Others Don't",
+            "The Scout Mindset",
             "Julia Galef",
             "nonfiction",
             "2021",
@@ -2521,21 +2521,21 @@
             "pt_BR"
         ],
         [
-            "21 Lessons for the 21st Century",
+            "21 lições para o século 21",
             "Yuval Noah Harari",
             "nonfiction",
             "2020",
             "en"
         ],
         [
-            "Aleister Crowley Wandering the Waste",
+            "Aleister Crowley",
             "RH Stewart",
             "comics",
             "2018",
             "en"
         ],
         [
-            "Heart-Shaped Box",
+            "A estrada da noite",
             "Joe Hill",
             "fiction",
             "2007",
@@ -2556,42 +2556,42 @@
             "pt"
         ],
         [
-            "Creative work in the digital age",
+            "Dust or Magic",
             "Bob Hughes",
             "nonfiction",
             "2007",
             "en"
         ],
         [
-            "An eternal golden braid",
+            "Gödel, Escher, Bach",
             "Douglas Richard Hofstadter",
             "nonfiction",
             "1999",
             "en"
         ],
         [
-            "Little dictionary of creole proverbs, selected from six creole dialects",
+            "Gombo Zhèbes",
             "Lafcadio Hearn",
             "nonfiction",
             "",
             "fr"
         ],
         [
-            "Antes da Coca-Cola",
+            "Henfil na China",
             "Henrique de Souza Filho",
             "travelogue",
             "1981",
             "pt_BR"
         ],
         [
-            "A Brief History of Tomorrow",
+            "Homo Deus",
             "Yuval Noah Harari",
             "nonfiction",
             "2016",
             "en"
         ],
         [
-            "Textos Escolhidos",
+            "Horkheimer Adorno",
             "Theodor Wiesengrund-Adorno",
             "nonfiction",
             "1991",
@@ -2612,28 +2612,28 @@
             "en"
         ],
         [
-            "An Enquiry Concerning Human Understanding",
+            "Investigação Sobre o Entendimento Humano",
             "David Hume",
             "nonfiction",
             "2006",
             "en"
         ],
         [
-            "A complete guide to the Japanese writing system",
+            "Japanese Kanji and Kana",
             "Mark Spahn",
             "dictionary",
             "2011",
             "ja"
         ],
         [
-            "Larousse des Desserts",
+            "Larousse das sobremesas",
             "Pierre Hermé",
             "cookbook",
             "2007",
             "fr_FR"
         ],
         [
-            "Larousse du chocolat",
+            "Larousse do chocolate",
             "Pierre Hermé",
             "cookbook",
             "2006",
@@ -2647,42 +2647,42 @@
             "pt"
         ],
         [
-            "Or The Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civil",
+            "Leviatã",
             "Thomas Hobbes",
             "nonfiction",
             "2015",
             "en"
         ],
         [
-            "The Fireman",
+            "Mestre das Chamas",
             "Joe Hill",
             "fiction",
             "2017",
             "en"
         ],
         [
-            "Passado e presente da transmissão sucessória concorrente",
+            "Morrer e suceder",
             "Giselda Maria Fernandes Novaes Hironaka",
             "textbook",
             "2014",
             "pt_BR"
         ],
         [
-            "Strukturwandel der öftentlichkeit",
+            "Mudança estrutural da esfera pública",
             "Jürgen Habermas",
             "nonfiction",
             "2003",
             "de"
         ],
         [
-            "The Lives, Times And Ideas Of The Great Economic Thinkers",
+            "Os Economistas",
             "Robert Louis Heilbroner",
             "nonfiction",
             "1996",
             "en"
         ],
         [
-            "Passionate Politics",
+            "O feminismo é para todo mundo",
             "bell hooks",
             "nonfiction",
             "2019",
@@ -2696,21 +2696,21 @@
             "pt_BR"
         ],
         [
-            "The silence of the lambs",
+            "O silêncio dos inocentes",
             "Thomas Harris",
             "fiction",
             "2008",
             "en"
         ],
         [
-            "The universe in a nutshell",
+            "O universo numa casca de noz",
             "Stephen Hawking",
             "nonfiction",
             "2001",
             "en"
         ],
         [
-            "Studienausgabe in fünf Bänden",
+            "Philosophical introductions",
             "Jürgen Habermas",
             "nonfiction",
             "2018",
@@ -2724,21 +2724,21 @@
             "pt_BR"
         ],
         [
-            "A Brief History of Humankind",
+            "Sapiens",
             "Yuval Noah Harari",
             "nonfiction",
             "2018",
             "en"
         ],
         [
-            "Culturing Artificial Life in a Digital World",
+            "Silicon Second Nature",
             "Stefan Helmreich",
             "nonfiction",
             "2000",
             "en"
         ],
         [
-            "Müdigkeitsgesellschaft",
+            "Sociedade do Cansaço",
             "Byung-Chul Han",
             "nonfiction",
             "2017",
@@ -2752,21 +2752,21 @@
             "en"
         ],
         [
-            "The lives, times, and ideas of the grat economic thinkers",
+            "The worldly philosophers",
             "Robert L. Heilbroner",
             "nonfiction",
             "1999",
             "en"
         ],
         [
-            "A Brief History of Time",
+            "Uma Breve História do Tempo",
             "Stephen Hawking",
             "nonfiction",
             "2015",
             "en"
         ],
         [
-            "A series of tales and sketches of the Moors and Spaniards",
+            "Cuentos de La Alhambra",
             "Washington Irving",
             "travelogue",
             "",
@@ -2787,7 +2787,7 @@
             "pt_BR"
         ],
         [
-            "The Buried Giant",
+            "O gigante enterrado",
             "Kazuo Ishiguro",
             "fiction",
             "2015",
@@ -2801,7 +2801,7 @@
             "en"
         ],
         [
-            "Der Kampf ums Recht",
+            "A luta pelo direito",
             "Rudolph von Jhering",
             "nonfiction",
             "2012",
@@ -2822,21 +2822,21 @@
             "en"
         ],
         [
-            "GURPS Basic Set",
+            "GURPS Módulo Básico",
             "Steve Jackson",
             "fiction",
             "1991",
             "en"
         ],
         [
-            "GURPS Time Travel",
+            "GURPS Viagem no Tempo",
             "John M. Ford",
             "fiction",
             "1993",
             "en"
         ],
         [
-            "Mumin på Rivieran Familjen lever högt",
+            "Muumiperhe Rivieralla",
             "Tove Jansson",
             "comics",
             "2014",
@@ -2850,49 +2850,49 @@
             "en"
         ],
         [
-            "Antologia",
+            "O Pasquim",
             "",
             "nonfiction",
             "2006",
             "pt_BR"
         ],
         [
-            "Antologia",
+            "O Pasquim",
             "",
             "nonfiction",
             "2007",
             "pt_BR"
         ],
         [
-            "Antologia",
+            "O Pasquim",
             "",
             "nonfiction",
             "2009",
             "pt_BR"
         ],
         [
-            "A General History of the Robberies and Murders of the most notorious Pyrates",
+            "Piratas",
             "Captain Charles Johnson",
             "nonfiction",
             "2003",
             "en"
         ],
         [
-            "Foundations for the economy of tomorrow",
+            "Prosperity without growth",
             "Tim Jackson",
             "nonfiction",
             "2017",
             "en_UK"
         ],
         [
-            "The Introductory Role-playing Game",
+            "RPG / Aventuras Fantásticas",
             "Steve Jackson",
             "nonfiction",
             "",
             "en"
         ],
         [
-            "Die Dynamik des Unbewussten",
+            "Sincronicidade",
             "Carl Gustav Jung",
             "nonfiction",
             "2007",
@@ -2927,14 +2927,14 @@
             "en_US"
         ],
         [
-            "A linguist reads the menu",
+            "The language of food",
             "Dan Jurafsky",
             "nonfiction",
             "",
             "en"
         ],
         [
-            "Two international bestsellers in one volume",
+            "The Vision",
             "Rick Joyner",
             "nonfiction",
             "2000",
@@ -2948,21 +2948,21 @@
             "pt_BR"
         ],
         [
-            "Finders Keepers",
+            "Achados e perdidos",
             "Stephen King",
             "fiction",
             "2016",
             "en_US"
         ],
         [
-            "Black house",
+            "A casa negra",
             "Peter Straub",
             "fiction",
             "2019",
             "en_US"
         ],
         [
-            "Firestarter",
+            "A incendiária",
             "Stephen King",
             "fiction",
             "2018",
@@ -2976,7 +2976,7 @@
             "fi"
         ],
         [
-            "Das Urteil",
+            "O Veredicto",
             "Franz Kafka",
             "fiction",
             "2001",
@@ -2990,7 +2990,7 @@
             "en"
         ],
         [
-            "Die Religion innerhalb der Grenzen der bloßen Vernunft",
+            "A Religião nos Limites da Simples Razão",
             "Immanuel Kant",
             "nonfiction",
             "2006",
@@ -3004,49 +3004,49 @@
             "en"
         ],
         [
-            "The gunslinger",
+            "O pistoleiro",
             "Stephen King",
             "fiction",
             "2003",
             "en_US"
         ],
         [
-            "The drawing of the three",
+            "A escolha dos três",
             "Stephen King",
             "fiction",
             "2007",
             "en_US"
         ],
         [
-            "The Waste lands",
+            "As terras devastadas",
             "Stephen King",
             "fiction",
             "2005",
             "en_US"
         ],
         [
-            "Wizard and glass",
+            "Mago e Vidro",
             "Stephen King",
             "fiction",
             "2007",
             "en_US"
         ],
         [
-            "Wolves of the Calla",
+            "Lobos de Calla",
             "Stephen King",
             "fiction",
             "2007",
             "en_US"
         ],
         [
-            "Song of Susannah - The Dark Tower Vol. VI",
+            "Canção de Susannah",
             "Stephen King",
             "fiction",
             "2005",
             "en_US"
         ],
         [
-            "The Dark Tower - The Dark Tower Vol. VII",
+            "A Torre Negra",
             "Stephen King",
             "fiction",
             "2007",
@@ -3060,14 +3060,14 @@
             "en_US"
         ],
         [
-            "Brief an den Vater",
+            "Carta ao pai",
             "Franz Kafka",
             "biography",
             "2004",
             "de"
         ],
         [
-            "Inspiring tips, techinques & ideas for hand lettering your way to beautiful works of art",
+            "Creative Lettering and Beyond",
             "Shawna Lynn Panczyszyn",
             "nonfiction",
             "2014",
@@ -3088,7 +3088,7 @@
             "en_US"
         ],
         [
-            "The big ideas behind reliable, scalable, and maintainable systems",
+            "Designing Data-Intensive Applications",
             "Martin Kleppmann",
             "nonfiction",
             "2017",
@@ -3151,21 +3151,21 @@
             "en_US"
         ],
         [
-            "Eesti Rahvuseepos",
+            "Kalevipoeg",
             "Friedrich Reinhold Kreutzwald",
             "poetry",
             "2011",
             "en"
         ],
         [
-            "Легенды и были Старого Таллинна",
+            "Legends and Tales of Old Tallinn",
             "Jüri Kuuskemaa",
             "fiction",
             "2012",
             "ru"
         ],
         [
-            "Siete historias de crímenes",
+            "Mala sangre",
             "Fabián Werner",
             "nonfiction",
             "2014",
@@ -3207,14 +3207,14 @@
             "en_US"
         ],
         [
-            "11/22/63",
+            "Novembro de 63",
             "Stephen King",
             "fiction",
             "2013",
             "en_US"
         ],
         [
-            "A personal account of the mt. Everest disaster",
+            "No ar rarefeito",
             "Jon Krakauer",
             "travelogue",
             "2006",
@@ -3235,56 +3235,56 @@
             "pt_BR"
         ],
         [
-            "Pet Sematary",
+            "O Cemitério",
             "Stephen King",
             "fiction",
             "2006",
             "en_US"
         ],
         [
-            "Recht so!",
+            "O direito pelo avesso",
             "Thomas Schaefer",
             "fiction",
             "2001",
             "de"
         ],
         [
-            "The Shinning",
+            "O Iluminado",
             "Stephen King",
             "fiction",
             "1987",
             "en_US"
         ],
         [
-            "Animal, vegetable, miracle: a year of food life",
+            "O mundo é o que você come",
             "Barbara Kingsolver",
             "cookbook",
             "2007",
             "en-US"
         ],
         [
-            "Der Prozess",
+            "O processo",
             "Franz Kafka",
             "fiction",
             "2015",
             "de"
         ],
         [
-            "Passion",
+            "Paixão",
             "Lauren Kate",
             "fiction",
             "2012",
             "en"
         ],
         [
-            "Nightmares & Dreamscapes",
+            "Pesadelos e paisagens noturnas",
             "Stephen King",
             "fiction",
             "2013",
             "en_US"
         ],
         [
-            "Nightmares & Dreamscapes",
+            "Pesadelos e paisagens noturnas",
             "Stephen King",
             "fiction",
             "2013",
@@ -3305,7 +3305,7 @@
             "pt_BR"
         ],
         [
-            "Reine Rechtslehre",
+            "Teoria pura do direito",
             "Hans Kelsen",
             "nonfiction",
             "2018",
@@ -3319,14 +3319,14 @@
             "en_US"
         ],
         [
-            "From Empire to Earth Community",
+            "The Great Turning",
             "David C. Korten",
             "nonfiction",
             "2006",
             "en"
         ],
         [
-            "The complete serial novel",
+            "The Green Mile",
             "Stephen King",
             "fiction",
             "1999",
@@ -3340,7 +3340,7 @@
             "en"
         ],
         [
-            "Why Monsters Came to Be and What Made Them so Terrifying",
+            "The Science of Monsters",
             "Matt Kaplan",
             "nonfiction",
             "2013",
@@ -3361,21 +3361,21 @@
             "en_US"
         ],
         [
-            "Book one",
+            "The walking dead",
             "Cliff Rathburn",
             "comics",
             "2013",
             "en_US"
         ],
         [
-            "Torment",
+            "Tormenta",
             "Lauren Kate",
             "fiction",
             "2012",
             "en"
         ],
         [
-            "End of Watch",
+            "Último turno",
             "Stephen King",
             "fiction",
             "2016",
@@ -3396,77 +3396,77 @@
             "en"
         ],
         [
-            "Pilakuvia Vuosien Varrelta",
+            "Yhtä Juhlaa",
             "Mauri Kunnas",
             "comics",
             "2014",
             "fi"
         ],
         [
-            "90 classic books for people in a hurry",
+            "90 livros clássicos para apressadinhos",
             "Henrik Lange",
             "comics",
             "2010",
             "en"
         ],
         [
-            "The Destroyer Is Unleashed",
+            "Apoliom",
             "Jerry Bruce Jenkins",
             "fiction",
             "2000",
             "en"
         ],
         [
-            "The Cosmic Battle of the Ages",
+            "Armagedom",
             "Jerry Bruce Jenkins",
             "fiction",
             "2009",
             "en"
         ],
         [
-            "Assignment: Jerusalem, Target: Antichrist",
+            "Assassinos",
             "Jerry Bruce Jenkins",
             "fiction",
             "2001",
             "en"
         ],
         [
-            "The Silver Chair",
+            "A Cadeira de Prata",
             "Clive Staples Lewis",
             "fiction",
             "1997",
             "en"
         ],
         [
-            "City of Thieves",
+            "A Cidade dos Ladrões",
             "Ian Livingstone",
             "gamebook",
             "",
             "en"
         ],
         [
-            "The World Takes Sides",
+            "A Colheita",
             "Jerry Bruce Jenkins",
             "fiction",
             "2009",
             "en"
         ],
         [
-            "Crônicas e receitas",
+            "A conversa chegou à cozinha",
             "Rita Lobo",
             "cookbook",
             "2008",
             "pt_BR"
         ],
         [
-            "La guerra del fin del mundo",
+            "A guerra do fim do mundo",
             "Mario Vargas Llosa",
             "fiction",
             "2011",
             "es"
         ],
         [
-            "The Beast Rules the World",
+            "A Marca",
             "Jerry Bruce Jenkins",
             "fiction",
             "2002",
@@ -3487,28 +3487,28 @@
             "en"
         ],
         [
-            "The last battle",
+            "A última batalha",
             "C. S. Lewis",
             "fiction",
             "1997",
             "en"
         ],
         [
-            "Voyage of the dawn treader",
+            "A viagem do peregrino da alvorada",
             "C. S. Lewis",
             "fiction",
             "1997",
             "en"
         ],
         [
-            "The Final Victory",
+            "A Vitória Final",
             "Jerry Bruce Jenkins",
             "fiction",
             "2009",
             "en"
         ],
         [
-            "Herança explosiva",
+            "Chávez",
             "Roberto Lopes",
             "nonfiction",
             "",
@@ -3522,14 +3522,14 @@
             "zh"
         ],
         [
-            "The Continuing Drama of Those Left Behind",
+            "Comando Tribulação",
             "Jerry Bruce Jenkins",
             "fiction",
             "1999",
             "en"
         ],
         [
-            "Conversación en la catedral",
+            "Conversa na Catedral",
             "Mario Vargas Llosa",
             "fiction",
             "",
@@ -3550,14 +3550,14 @@
             "pt_BR"
         ],
         [
-            "A Novel of the Earth's Last Days",
+            "Deixados Para Trás",
             "Jerry Bruce Jenkins",
             "fiction",
             "1997",
             "en"
         ],
         [
-            "Dictadores, reyes, emperadores, líderes y conceptos",
+            "Dicionario de Tiranos",
             "José Manuel Lechado",
             "nonfiction",
             "2016",
@@ -3571,7 +3571,7 @@
             "en"
         ],
         [
-            "Um puxa-saco de mão cheia",
+            "Fagundes",
             "Laerte Coutinho",
             "comics",
             "2007",
@@ -3592,7 +3592,7 @@
             "es"
         ],
         [
-            "From the Adventures of Luke Skywalker",
+            "Guerra nas Estrelas",
             "George Lucas",
             "fiction",
             "1978",
@@ -3627,14 +3627,14 @@
             "es_AR"
         ],
         [
-            "At the mountains of madness",
+            "Nas montanhas da loucura",
             "Howard Phillips Lovecraft",
             "fiction",
             "2011",
             "en"
         ],
         [
-            "The Rise of Antichrist",
+            "Nicolae",
             "Jerry Bruce Jenkins",
             "fiction",
             "2009",
@@ -3648,49 +3648,49 @@
             "en"
         ],
         [
-            "Love, terror, and an American family in Hitler's Berlin",
+            "No jardim das feras",
             "Erik Larson",
             "nonfiction",
             "2012",
             "en"
         ],
         [
-            "Los cuadernos de don Rigoberto",
+            "Os cadernos de don Rigoberto",
             "Mario Vargas Llosa",
             "fiction",
             "2011",
             "es"
         ],
         [
-            "Pequeno repertório de grandes erros de linguagem",
+            "Os Pecados da Língua",
             "Paulo Sampaio",
             "nonfiction",
             "1995",
             "pt_BR"
         ],
         [
-            "The Last Days of Pompeii",
+            "Os últimos dias de Pompéia",
             "Lord Bulwer-Lytton",
             "fiction",
             "1956",
             "en"
         ],
         [
-            "The Horse and His Boy",
+            "O Cavalo e seu Menino",
             "Clive Staples Lewis",
             "fiction",
             "2011",
             "en"
         ],
         [
-            "Estado de Direito, segurança jurídica e teoria dos precedentes",
+            "O dever de motivação das decisões judiciais",
             "Rodrigo Ramina de Lucca",
             "nonfiction",
             "2016",
             "pt_BR"
         ],
         [
-            "The End of Days",
+            "O Glorioso Aparecimento",
             "Jerry Bruce Jenkins",
             "fiction",
             "2009",
@@ -3704,35 +3704,35 @@
             "pt_BR"
         ],
         [
-            "The Lion, the Witch and the Wardrobe",
+            "O Leão, a Feiticeira e o Guarda-Roupa",
             "Clive Staples Lewis",
             "fiction",
             "2011",
             "en"
         ],
         [
-            "The Internet Companion",
+            "O Manual da Internet",
             "Jeanne C. Ryer",
             "nonfiction",
             "1994",
             "en"
         ],
         [
-            "The Beast Takes Possession",
+            "O Possuído",
             "Jerry Bruce Jenkins",
             "fiction",
             "2001",
             "en"
         ],
         [
-            "On the Brink of Armageddon",
+            "O Remanescente",
             "Jerry Bruce Jenkins",
             "fiction",
             "2003",
             "en"
         ],
         [
-            "The Magician's Nephew",
+            "O Sobrinho do Mago",
             "Clive Staples Lewis",
             "fiction",
             "2011",
@@ -3746,14 +3746,14 @@
             "pt_BR"
         ],
         [
-            "Je pense donc je me trompe",
+            "Penso, logo me engano",
             "Jean-Pierre Lentin",
             "nonfiction",
             "1997",
             "fr"
         ],
         [
-            "Histórias de pavio curto",
+            "Piratas do Tietê 2",
             "Laerte Coutinho",
             "comics",
             "2007",
@@ -3767,7 +3767,7 @@
             "pt_BR"
         ],
         [
-            "The Return to Narnia",
+            "Príncipe Caspian",
             "Clive Staples Lewis",
             "fiction",
             "1997",
@@ -3788,14 +3788,14 @@
             "pt_BR"
         ],
         [
-            "Antichrist Takes the Throne",
+            "Profanação",
             "Jerry Bruce Jenkins",
             "fiction",
             "2002",
             "en"
         ],
         [
-            "Une génealogie politique d'internet",
+            "Redes, liberdades e controle",
             "Benjamin Loveluck",
             "nonfiction",
             "2018",
@@ -3809,14 +3809,14 @@
             "en"
         ],
         [
-            "Ensaio sobre a origem, os limites e os fins verdadeiros do governo civil",
+            "Segundo tratado sobre o governo civil",
             "John Locke",
             "nonfiction",
             "2006",
             "en"
         ],
         [
-            "Dos paradigmas de Ricardo Lorenzetti à resposta adequada à constituição de Lenio Streck",
+            "Teoria da Decisão Judicial",
             "Fernando Vieira Luiz",
             "nonfiction",
             "2013",
@@ -3830,21 +3830,21 @@
             "en_US"
         ],
         [
-            "Brilliant Blunders",
+            "Tolices Brilhantes",
             "Mario Livio",
             "nonfiction",
             "2017",
             "en"
         ],
         [
-            "Bienes Historie",
+            "Tudo que deixamos para trás",
             "Maja Lunde",
             "fiction",
             "2016",
             "no_NO"
         ],
         [
-            "A murder of quality",
+            "Um crime entre cavalheiros",
             "John Le Carré",
             "fiction",
             "2000",
@@ -3865,7 +3865,7 @@
             "pt_BR"
         ],
         [
-            "TAG: Le parole del tempo",
+            "Alfabeto da sociedade desorientada",
             "Domenico de Masi",
             "dictionary",
             "2017",
@@ -3879,84 +3879,84 @@
             "pt_BR"
         ],
         [
-            "A memoir",
+            "Angela's ashes",
             "Frank McCourt",
             "biography",
             "1999",
             "en"
         ],
         [
-            "Historia secreta del poder en la Argentina desde 1983",
+            "Asalto a la Ilusion",
             "Joaquín Morales Solá",
             "nonfiction",
             "1990",
             "es_AR"
         ],
         [
-            "Seleção de textos",
+            "As melhores anedotas do século",
             "Luiz Carlos Martins",
             "jokebook",
             "1997",
             "pt_BR"
         ],
         [
-            "Other Urban Intelligences",
+            "A city is Not a Computer",
             "Shannon Mattern",
             "nonfiction",
             "2021",
             "en_US"
         ],
         [
-            "Contexto, historicidade e repercussões",
+            "A construção social do acesso público à informação no Brasil",
             "Maria Aparecida Moura",
             "nonfiction",
             "2014",
             "pt_BR"
         ],
         [
-            "A Dance with Dragons",
+            "A dança dos dragões",
             "George R. R. Martin",
             "fiction",
             "2012",
             "en"
         ],
         [
-            "A Clash of Kings",
+            "A fúria dos reis",
             "George R. R. Martin",
             "fiction",
             "2011",
             "en"
         ],
         [
-            "A Game of Thrones",
+            "A guerra dos tronos",
             "George R. R. Martin",
             "fiction",
             "2010",
             "en"
         ],
         [
-            "Como condição de possibilidade para resposta correta/adequada",
+            "A motivação das decisões cíveis",
             "Cristina Reindolff da Motta",
             "nonfiction",
             "2012",
             "pt_BR"
         ],
         [
-            "Uma perspectiva transdisciplinar do Direito e da Democracia",
+            "A subjetividade do tempo",
             "José Luis Bolzan de Morais",
             "nonfiction",
             "1998",
             "pt_BR"
         ],
         [
-            "A Storm of Swords",
+            "A tormenta de espadas",
             "George R. R. Martin",
             "fiction",
             "2011",
             "en"
         ],
         [
-            "Green Witch",
+            "Bruxa natural",
             "Arin Murphy-Hiscock",
             "cookbook",
             "2021",
@@ -3977,21 +3977,21 @@
             "pt_BR"
         ],
         [
-            "Escreva a coisa certa em qualquer situação",
+            "Como escrever tudo em francês",
             "Janice Sfreddo",
             "textbook",
             "2003",
             "pt_BR"
         ],
         [
-            "The Definitive C++ Builder Problem-Solver",
+            "Borland C++ Builder How-To",
             "Harold Howe",
             "handbook",
             "1997",
             "en"
         ],
         [
-            "Twilight",
+            "Crepúsculo",
             "Stephenie Meyer",
             "fiction",
             "2008",
@@ -4012,7 +4012,7 @@
             "fr_FR"
         ],
         [
-            "Mapuche-Español Español-Mapuche",
+            "Diccionario Mapuche",
             "Alberto Moreno",
             "dictionary",
             "2013",
@@ -4033,7 +4033,7 @@
             "el"
         ],
         [
-            "An Introduction to Microcomputers",
+            "Digital Computer Electronics",
             "Albert Paul Malvino",
             "textbook",
             "1991",
@@ -4047,35 +4047,35 @@
             "pt_BR"
         ],
         [
-            "From Hell",
+            "Do inferno",
             "Eddie Campbell",
             "comics",
             "2014",
             "en"
         ],
         [
-            "Thirty-five rules for clear and persuasive prose",
+            "Economical Writing",
             "Deirdre Nansen McCloskey",
             "nonfiction",
             "2019",
             "en"
         ],
         [
-            "50 Specific Ways to Improve Your Programs and Designs",
+            "Effective C++",
             "Scott Douglas Meyers",
             "nonfiction",
             "1998",
             "en_US"
         ],
         [
-            "Marketing para campanhas eleitoriais",
+            "Eleião é Guerra",
             "Carlos Augusto Manhanelli",
             "nonfiction",
             "1992",
             "pt_BR"
         ],
         [
-            "On Liberty",
+            "Ensaio Sobre a Liberdade",
             "John Stuart Mill",
             "nonfiction",
             "2006",
@@ -4089,49 +4089,49 @@
             "pt_BR"
         ],
         [
-            "O Descortinar da Alta Magia",
+            "Filho do Fogo",
             "Eduardo Daniel Mastral",
             "fiction",
             "2002",
             "pt_BR"
         ],
         [
-            "O Descortinar da Alta Magia",
+            "Filho do Fogo",
             "Eduardo Daniel Mastral",
             "fiction",
             "2002",
             "pt_BR"
         ],
         [
-            "Goya",
+            "Gallery guide",
             "Manuela B. Mena Marqués",
             "guidebook",
             "2005",
             "es_ES"
         ],
         [
-            "The tangled roots of our forests and fairytales",
+            "Gossip from the forest",
             "Sara Maitland",
             "fiction",
             "2013",
             "en_UK"
         ],
         [
-            "Mexican Gothic",
+            "Gótico Mexicano",
             "Silvia Moreno-Garcia",
             "fiction",
             "2021",
             "en_CA"
         ],
         [
-            "O Treinamento",
+            "Guerreiros da Luz",
             "Eduardo Daniel Mastral",
             "fiction",
             "2002",
             "pt_BR"
         ],
         [
-            "O Treinamento",
+            "Guerreiros da Luz",
             "Eduardo Daniel Mastral",
             "fiction",
             "2003",
@@ -4145,7 +4145,7 @@
             "pt_BR"
         ],
         [
-            "The future of narrative in cyberspace",
+            "Hamlet no Holodeck",
             "Janet Horowitz Murray",
             "nonfiction",
             "2003",
@@ -4180,21 +4180,21 @@
             "es_AR"
         ],
         [
-            "New Moon",
+            "Lua Nova",
             "Stephenie Meyer",
             "fiction",
             "2008",
             "en__US"
         ],
         [
-            "Storytelling Secrets of Comics, Manga and Graphic Novels",
+            "Making Comics",
             "Scott McCloud",
             "nonfiction",
             "2006",
             "en"
         ],
         [
-            "Alternativas à Jurisdição!",
+            "Mediação e Arbitragem",
             "Fabiana Marion Spengler",
             "nonfiction",
             "2012",
@@ -4208,21 +4208,21 @@
             "fr"
         ],
         [
-            "or, The Whale",
+            "Moby Dick",
             "Herman Melville",
             "fiction",
             "1994",
             "en_US"
         ],
         [
-            "35 New Ways to Improve Your Programs and Designs",
+            "More Effective C++",
             "Scott Douglas Meyers",
             "nonfiction",
             "1996",
             "en_US"
         ],
         [
-            "Great Writers on the City",
+            "New Orleans Stories",
             "Anonymous",
             "fiction",
             "1992",
@@ -4243,49 +4243,49 @@
             "pt_BR"
         ],
         [
-            "A Feast for Crows",
+            "O festim dos corvos",
             "George R. R. Martin",
             "fiction",
             "2012",
             "en"
         ],
         [
-            "Um olhar bem-humorado sobre a Língua Portuguesa",
+            "O prazer das palavras",
             "Cláudio Moreno",
             "nonfiction",
             "2008",
             "pt_BR"
         ],
         [
-            "Um olhar bem-humorado sobre a Língua Portuguesa",
+            "O prazer das palavras",
             "Cláudio Moreno",
             "nonfiction",
             "2008",
             "pt_BR"
         ],
         [
-            "Um olhar bem-humorado sobre a Língua Portuguesa",
+            "O prazer das palavras",
             "Cláudio Moreno",
             "nonfiction",
             "2013",
             "pt_BR"
         ],
         [
-            "Il Principe",
+            "O Príncipe",
             "Nicoló di Bernardo dei Machiavelli",
             "nonfiction",
             "1998",
             "it"
         ],
         [
-            "Pluralismo e democracia em Jürgen Habermas",
+            "O uso público da razão",
             "Rúrion Melo",
             "nonfiction",
             "2011",
             "pt_BR"
         ],
         [
-            "Un libro paralelo",
+            "Pinóquio",
             "Giorgio Manganelli",
             "fiction",
             "2002",
@@ -4306,105 +4306,105 @@
             "pt_BR"
         ],
         [
-            "Down these strange streets",
+            "Ruas estranhas",
             "Bradley Denton",
             "fiction",
             "2012",
             "en"
         ],
         [
-            "Cuentos de Ciencia Ficción uruguaya",
+            "Ruido Blanco",
             "Carlos María Federici",
             "fiction",
             "2018",
             "es_UY"
         ],
         [
-            "Midnight sun",
+            "Sol da meia-noite",
             "Stephanie Meyer",
             "fiction",
             "2020",
             "en_US"
         ],
         [
-            "New Rules of Engagement for a Complex World",
+            "Team of Teams",
             "Chris Fussell",
             "nonfiction",
             "2015",
             "en"
         ],
         [
-            "Plano da eficácia",
+            "Teoria do fato jurídico",
             "Marcos Bernardes de Mello",
             "nonfiction",
             "2014",
             "pt_BR"
         ],
         [
-            "Plano da existência",
+            "Teoria do fato jurídico",
             "Marcos Bernardes de Mello",
             "nonfiction",
             "2014",
             "pt_BR"
         ],
         [
-            "Plano da validade",
+            "Teoria do fato jurídico",
             "Marcos Bernardes de Mello",
             "nonfiction",
             "2014",
             "pt_BR"
         ],
         [
-            "Design, Technology, Business, Life",
+            "The Laws of Simplicity",
             "John Maeda",
             "nonfiction",
             "2006",
             "en"
         ],
         [
-            "20 Cases that Changed America",
+            "The Supreme Court Landmark Decisions",
             "Tony Mauro",
             "nonfiction",
             "2016",
             "en_US"
         ],
         [
-            "A handbook of creative-thinking techniques",
+            "Thinkertoys",
             "Michael Michalko",
             "handbook",
             "2006",
             "en"
         ],
         [
-            "A Primer",
+            "Thinking in Systems",
             "Donella H. Meadows",
             "nonfiction",
             "2008",
             "en"
         ],
         [
-            "The Complete Cajun Comics of Ken Meaux and Earl Comeaux",
+            "Tout Bec Doux",
             "Earl Comeaux",
             "comics",
             "2011",
             "en_US"
         ],
         [
-            "The essential collection of rules, stats, and trivia for over 250 sports",
+            "Ultimate book of sports",
             "Scott McNeely",
             "nonfiction",
             "2012",
             "en_US"
         ],
         [
-            "A History of Reading",
+            "Una Historia de la Lectura",
             "Alberto Manguel",
             "nonfiction",
             "2017",
             "en"
         ],
         [
-            "The Invisible Art",
+            "Understanding Comics",
             "Scott McCloud",
             "comics",
             "1994",
@@ -4418,14 +4418,14 @@
             "en"
         ],
         [
-            "Utilitarianism",
+            "Utilitarismo",
             "John Stuart Mill",
             "nonfiction",
             "2007",
             "en"
         ],
         [
-            "De optimo rei publicae statu deque nova insula Utopia",
+            "Utopia",
             "Thomas Morus",
             "fiction",
             "",
@@ -4446,28 +4446,28 @@
             "en_GB"
         ],
         [
-            "Serious scientific answers to absurd hypothetical questions",
+            "What if?",
             "Randall Munroe",
             "nonfiction",
             "2014",
             "en"
         ],
         [
-            "The fragility of goodness",
+            "A fragilidade da bondade",
             "Martha C. Nussbaum",
             "nonfiction",
             "2009",
             "en"
         ],
         [
-            "La Gaya Scienza",
+            "A Gaia Ciência",
             "Friedrich Wilhelm Nietzsche",
             "nonfiction",
             "2006",
             "de"
         ],
         [
-            "Designing Fine-Grained Systems",
+            "Building Microservices",
             "Sam Newman",
             "nonfiction",
             "2015",
@@ -4495,42 +4495,42 @@
             "pt_BR"
         ],
         [
-            "Declaration",
+            "Declaração",
             "Michael Hardt",
             "nonfiction",
             "2016",
             "en"
         ],
         [
-            "Peter Norton's Inside the PC",
+            "Desvendando o PC",
             "Peter Norton",
             "nonfiction",
             "1996",
             "en"
         ],
         [
-            "Du retour",
+            "De volta",
             "Antonio Negri",
             "nonfiction",
             "2006",
             "fr"
         ],
         [
-            "Eine Biografie",
+            "Einstein",
             "Jürgen Neffe",
             "biography",
             "2012",
             "DE_de"
         ],
         [
-            "How the computer world got this way",
+            "Geeks Bearing Gifts",
             "Theodor Holm Nelson",
             "nonfiction",
             "2009",
             "en"
         ],
         [
-            "Rebuild all of civilization (with 96% fewer catastrophes this time)",
+            "How To Invent Everything",
             "Ryan North",
             "nonfiction",
             "2018",
@@ -4544,7 +4544,7 @@
             "pt_BR"
         ],
         [
-            "An Archetypal Journey",
+            "Jung e o tarô",
             "Sallie Nichols",
             "nonfiction",
             "2005",
@@ -4558,21 +4558,21 @@
             "en"
         ],
         [
-            "Um país acossado",
+            "Nicarágua",
             "Eric Nepomuceno",
             "travelogue",
             "1985",
             "pt_BR"
         ],
         [
-            "Дар",
+            "O Dom",
             "Влади́мир Влади́мирович Набо́ков",
             "fiction",
             "2017",
             "ru"
         ],
         [
-            "Saggio sulle alternative del moderno",
+            "O poder constituinte",
             "Antonio Negri",
             "nonfiction",
             "2015",
@@ -4586,28 +4586,28 @@
             "pt_BR"
         ],
         [
-            "The Psychology of Everyday Things",
+            "The Design of Everyday Things",
             "Donald A. Norman",
             "nonfiction",
             "2002",
             "en"
         ],
         [
-            "Animal farm",
+            "A revolução dos bichos",
             "George Orwell",
             "fiction",
             "2003",
             "en"
         ],
         [
-            "La vida por un mundo mejor",
+            "Che",
             "Mario Pacho O'Donnell",
             "biography",
             "2005",
             "es"
         ],
         [
-            "Aux sources de l'imaginaire juridique",
+            "Contar a lei",
             "François Ost",
             "nonfiction",
             "2007",
@@ -4621,7 +4621,7 @@
             "nah"
         ],
         [
-            "La prisonnière",
+            "Eu, Malika Oufkir, prisioneira do rei",
             "Michèle Fitoussi",
             "biography",
             "2007",
@@ -4635,7 +4635,7 @@
             "es"
         ],
         [
-            "16 mars 1244",
+            "Le bûcher de Montségur",
             "Zoé Oldenbourg",
             "nonfiction",
             "1996",
@@ -4649,7 +4649,7 @@
             "pt_BR"
         ],
         [
-            "Revisado e Atualizado",
+            "Manual de Prática Trabalhista",
             "Maurício Góes",
             "textbook",
             "2018",
@@ -4670,91 +4670,91 @@
             "pt_BR"
         ],
         [
-            "Compreenda o poder, as razões e as consequências das decisões da mais alta Corte do Judiciário no Brasil",
+            "O Supremo",
             "Joaquim Falcão",
             "nonfiction",
             "2015",
             "pt_BR"
         ],
         [
-            "Le temps du droit",
+            "O tempo do direito",
             "François Ost",
             "nonfiction",
             "",
             "fr"
         ],
         [
-            "Fiction and Reality",
+            "Patagonia",
             "Héctor Raúl Ossés",
             "fiction",
             "2014",
             "en"
         ],
         [
-            "XVI Brazilian Symposium on Computer Graphics and Image Processing",
+            "Proceedings of SIBGRAPI 2003",
             "",
             "proceedings",
             "2003",
             "en"
         ],
         [
-            "How big data increases inequality and threatens democracy",
+            "Weapons of math destruction",
             "Cathy O'Neil",
             "nonfiction",
             "2016",
             "en_US"
         ],
         [
-            "The Evolution of Useful Things",
+            "A evolução das coisas úteis",
             "Henry Petroski",
             "nonfiction",
             "2007",
             "en"
         ],
         [
-            "Essays by the LessWrong Community",
+            "A Map that Reflects the Territory",
             "Valentine Smith",
             "nonfiction",
             "2020",
             "en"
         ],
         [
-            "Essays by the LessWrong Community",
+            "A Map that Reflects the Territory",
             "Katja Grace",
             "nonfiction",
             "2020",
             "en"
         ],
         [
-            "Essays by the LessWrong Community",
+            "A Map that Reflects the Territory",
             "Samo Burja",
             "nonfiction",
             "2020",
             "en"
         ],
         [
-            "Essays by the LessWrong Community",
+            "A Map that Reflects the Territory",
             "Katja Grace",
             "nonfiction",
             "2020",
             "en"
         ],
         [
-            "Essays by the LessWrong Community",
+            "A Map that Reflects the Territory",
             "Sarah Constantin",
             "nonfiction",
             "2020",
             "en"
         ],
         [
-            "Πολιτεία",
+            "A República",
             "Πλάτων",
             "nonfiction",
             "2006",
             "el"
         ],
         [
-            "Πολιτεία",
+            "A República",
             "Πλάτων",
             "nonfiction",
             "2006",
@@ -4768,7 +4768,7 @@
             "pt_BR"
         ],
         [
-            "The Seven Promises of Eragon Shadeslayer and Saphira Bjartskular",
+            "Brisingr",
             "Christopher Paolini",
             "fiction",
             "2008",
@@ -4782,28 +4782,28 @@
             "en_US"
         ],
         [
-            "How the Mind Works",
+            "Como a Mente Funciona",
             "Steven Pinker",
             "nonfiction",
             "1999",
             "en"
         ],
         [
-            "Tales of mystery and imagination",
+            "Contos de imaginação e mistério",
             "Edgar Allan Poe",
             "fiction",
             "2012",
             "en_US"
         ],
         [
-            "Sequences, Patterns, Shapes, Numbers",
+            "Desenvolva sua Inteligência",
             "Charles Phillips",
             "puzzle",
             "2012",
             "en"
         ],
         [
-            "Language as a window into human nature",
+            "Do que é feito o pensamento",
             "Steven Pinker",
             "nonfiction",
             "2016",
@@ -4817,7 +4817,7 @@
             "en"
         ],
         [
-            "An Eater's Manifesto",
+            "Em Defesa da Comida",
             "Michael Pollan",
             "nonfiction",
             "2008",
@@ -4831,7 +4831,7 @@
             "en"
         ],
         [
-            "The Vault of Souls",
+            "Herança",
             "Christopher Paolini",
             "fiction",
             "2012",
@@ -4845,7 +4845,7 @@
             "pt_BR"
         ],
         [
-            "Unmasking Louisiana politics",
+            "Inside the carnival",
             "Wayne Parent",
             "nonfiction",
             "2010",
@@ -4866,7 +4866,7 @@
             "tr"
         ],
         [
-            "Composto por Bernardo Soares, ajudante de guarda-livros na cidade de Lisboa",
+            "Livro do desassossego",
             "Fernando Pessoa",
             "fiction",
             "2011",
@@ -4901,28 +4901,28 @@
             "pt_PT"
         ],
         [
-            "Le capital au XXIe siècle",
+            "O Capital no Século XXI",
             "Thomas Piketti",
             "nonfiction",
             "2014",
             "fr"
         ],
         [
-            "Os Mucker",
+            "O episódio do Ferrabraz",
             "Leopoldo Petry",
             "nonfiction",
             "1966",
             "pt_BR"
         ],
         [
-            "Orientações jurídicas para uma alocação de investimento mais eficiente",
+            "O mais importante para o Investidor sobre Tributação",
             "Éderson Garin Porto",
             "nonfiction",
             "2021",
             "pt_BR"
         ],
         [
-            "The Oath",
+            "O Pacto",
             "Frank Peretti",
             "fiction",
             "",
@@ -4943,14 +4943,14 @@
             "pt_BR"
         ],
         [
-            "The Narrative of Arthur Gordon Pym of Nantucket",
+            "O relato de Arthur Gordon Pym",
             "Edgar Allan Poe",
             "fiction",
             "2002",
             "en"
         ],
         [
-            "The silent companions",
+            "O silêncio da casa fria",
             "Laura Purcell",
             "fiction",
             "2020",
@@ -4971,21 +4971,21 @@
             "pt_BR"
         ],
         [
-            "Disputas, amores e desejos nos processos de família narrados com emoção e delicadeza por uma juíza",
+            "Segredo de justiça",
             "Andréa Pachá",
             "fiction",
             "2014",
             "pt_BR"
         ],
         [
-            "Poltereists, ghosts, hauntings",
+            "Supernatural England",
             "",
             "nonfiction",
             "2015",
             "en"
         ],
         [
-            "The Secret Algorithms That Control Money and Information",
+            "The black box society",
             "Frank Pasquale",
             "nonfiction",
             "2015",
@@ -4999,21 +4999,21 @@
             "en"
         ],
         [
-            "The essential guide to culinary creativity, based on the wisdom of America's most imaginative chefs",
+            "The Flavor Bible",
             "Andrew Dornenburg",
             "nonfiction",
             "2018",
             "en"
         ],
         [
-            "How the mind creates language",
+            "The Language Instinct",
             "Steven Pinker",
             "nonfiction",
             "2007",
             "en_US"
         ],
         [
-            "The Thinking Person's Guide to Writing in the 21st Century",
+            "The Sense of Style",
             "Steven Pinker",
             "nonfiction",
             "2015",
@@ -5027,7 +5027,7 @@
             "en_US"
         ],
         [
-            "Les 36 situations dramatiques",
+            "The Thirty-Six Dramatic Situations",
             "Georges Polti",
             "nonfiction",
             "1945",
@@ -5083,7 +5083,7 @@
             "ar"
         ],
         [
-            "Rua dos cataventos & outros poemas",
+            "Quintana de bolso",
             "Mario Quintana",
             "poetry",
             "2008",
@@ -5118,28 +5118,28 @@
             "en"
         ],
         [
-            "Histórias fantásticas de povos nativos e pré-colombianos",
+            "América Mítica",
             "Rosana Rios",
             "fiction",
             "2013",
             "pt_BR"
         ],
         [
-            "Tierra del Fuego",
+            "Archipiélago",
             "Ricardo Rojas",
             "biography",
             "2014",
             "es"
         ],
         [
-            "A Modern Approach",
+            "Artificial Intelligence",
             "Peter Norvig",
             "textbook",
             "2003",
             "en"
         ],
         [
-            "em fragmentos",
+            "À esquerda do Direito",
             "José Rodrigo Rodriguez",
             "nonfiction",
             "2014",
@@ -5153,7 +5153,7 @@
             "pt_BR"
         ],
         [
-            "Ritos fúnebres e revolta popular no Brasil do século XIX",
+            "A morte é uma festa",
             "João José Reis",
             "nonfiction",
             "2017",
@@ -5167,28 +5167,28 @@
             "en"
         ],
         [
-            "First Impressions",
+            "Bangladesh",
             "Michael H. Reichmann",
             "photobook",
             "2005",
             "en"
         ],
         [
-            "His Life & Art",
+            "Chaplin",
             "David Robinson",
             "biography",
             "2012",
             "en"
         ],
         [
-            "Hollow city",
+            "Cidade dos etéreos",
             "Ransom Riggs",
             "fiction",
             "2016",
             "en"
         ],
         [
-            "Para uma crítica do direito (brasileiro)",
+            "Como decidem as cortes?",
             "José Rodrigo Rodriguez",
             "nonfiction",
             "2013",
@@ -5209,35 +5209,35 @@
             "pt_BR"
         ],
         [
-            "Ten days that shook the world",
+            "Dez dias que abalaram o mundo",
             "John Reed",
             "nonfiction",
             "2017",
             "en_US"
         ],
         [
-            "Echo",
+            "Ecos",
             "Pam Muñoz Ryan",
             "fiction",
             "2017",
             "en"
         ],
         [
-            "O Enigma do Universo",
+            "Einstein",
             "Huberto Rohden",
             "biography",
             "2004",
             "pt_BR"
         ],
         [
-            "Um estudo sobre o direito contemporâneo a partir de Franz Neumann",
+            "Fuga do direito",
             "José Rodrigo Rodriguez",
             "nonfiction",
             "2009",
             "pt_BR"
         ],
         [
-            "A efetivação dos direitos de crianças e adolescentes",
+            "Guarda compartilhada coativa",
             "Conrado Paulino da Rosa",
             "textbook",
             "2018",
@@ -5258,14 +5258,14 @@
             "pt_BR"
         ],
         [
-            "Jeux en Assembleur",
+            "MSX",
             "Eric Ravis",
             "nonfiction",
             "1986",
             "fr"
         ],
         [
-            "Nemesis",
+            "Nêmesis",
             "Philip Roth",
             "fiction",
             "2011",
@@ -5279,35 +5279,35 @@
             "pt_BR"
         ],
         [
-            "Never leave me",
+            "Ninguém é de ninguém",
             "Harold Robbins",
             "fiction",
             "2000",
             "en"
         ],
         [
-            "Principes du droit politique",
+            "O Contrato Social",
             "Jean-Jacques Rousseau",
             "nonfiction",
             "",
             "fr"
         ],
         [
-            "The Ickabog",
+            "O Ickabog",
             "J. K. Rowling",
             "fiction",
             "2020",
             "en"
         ],
         [
-            "Miss Peregrine's Home for Peculiar Children",
+            "O orfanato da srta. Peregrine para crianças peculiares",
             "Ransom Riggs",
             "fiction",
             "2015",
             "en"
         ],
         [
-            "A formação e o sentido do Brasil",
+            "O Povo Brasileiro",
             "Darcy Ribeiro",
             "nonfiction",
             "2008",
@@ -5321,7 +5321,7 @@
             "pt_BR"
         ],
         [
-            "Percy Jackson's greek gods",
+            "Percy Jackson e os deuses gregos",
             "Rick Riordan",
             "fiction",
             "2015",
@@ -5335,21 +5335,21 @@
             "pt_BR"
         ],
         [
-            "Desserts",
+            "Receitas de sobremesas",
             "Michel Roux",
             "cookbook",
             "2012",
             "en"
         ],
         [
-            "The Stranger Beside Me",
+            "Ted Bundy",
             "Ann Rule",
             "nonfiction",
             "2019",
             "en"
         ],
         [
-            "A forgotten history of how our government segregated America",
+            "The color of law",
             "Richard Rothstein",
             "nonfiction",
             "2017",
@@ -5363,7 +5363,7 @@
             "en"
         ],
         [
-            "A theory of justice",
+            "Uma teoria da justiça",
             "John Rawls",
             "nonfiction",
             "2016",
@@ -5377,7 +5377,7 @@
             "pt_BR"
         ],
         [
-            "Mythic Models for Creating Original Characters",
+            "45 Master Characters",
             "Victoria Lynn Schmidt",
             "nonfiction",
             "2001",
@@ -5405,7 +5405,7 @@
             "en"
         ],
         [
-            "Bem Viver, decrescimento, comuns, ecofeminismo, direitos da Mãe Terra e desglobalização",
+            "Alternativas sistêmicas",
             "Elizabeth Peredo Beltrán",
             "nonfiction",
             "2019",
@@ -5468,7 +5468,7 @@
             "pt_BR"
         ],
         [
-            "Da Escravidão à Lava Jato",
+            "A Elite do Atraso",
             "Jessé Souza",
             "nonfiction",
             "2017",
@@ -5496,21 +5496,21 @@
             "pt_BR"
         ],
         [
-            "Perspectiva hermenêutica",
+            "A repercussão geral no recurso extraordinário",
             "Dalton Sausen",
             "nonfiction",
             "2007",
             "pt_BR"
         ],
         [
-            "Mentes insanas em corpos rebeldes",
+            "A Revolta da Vacina",
             "Nicolau Sevcenko",
             "nonfiction",
             "2018",
             "pt_BR"
         ],
         [
-            "Teologia em Movimento",
+            "A Teologia Contemporânea na América Latina e no Caribe",
             "Kathlen Luana da Rosa",
             "nonfiction",
             "2008",
@@ -5524,14 +5524,14 @@
             "pt_PT"
         ],
         [
-            "Civil; Comercial; Processo Civil e Constituição Federal",
+            "Código 4 em 1 Saraiva",
             "Editora Saraiva",
             "nonfiction",
             "2015",
             "pt_BR"
         ],
         [
-            "Saraiva Acadêmica e Constituição Federal",
+            "CLT",
             "Fabiana Dias da Rocha",
             "nonfiction",
             "2018",
@@ -5559,7 +5559,7 @@
             "en"
         ],
         [
-            "A Guide to Engineering Experiences",
+            "Designing Games",
             "Tynan Sylvester",
             "textbook",
             "2013",
@@ -5573,7 +5573,7 @@
             "en"
         ],
         [
-            "a journalist's personal investigation of the evidence for Jesus",
+            "Em defesa de Cristo",
             "Lee Strobel",
             "nonfiction",
             "2001",
@@ -5601,28 +5601,28 @@
             "pt_BR"
         ],
         [
-            "The Modern Prometheus",
+            "Frankenstein",
             "Mary Wollstonecraft Godwin",
             "fiction",
             "2003",
             "en"
         ],
         [
-            "Masterpieces of the Prado Museum",
+            "Gallery guide",
             "Francisco Calvo Serraller",
             "guidebook",
             "2006",
             "es_ES"
         ],
         [
-            "Delicious Gourmet Vegetarian Recipes",
+            "Garlic Cookery",
             "Martha Rose Shulman",
             "cookbook",
             "1984",
             "en_US"
         ],
         [
-            "Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships",
+            "Gulliver's Travels",
             "Jonathan Swift",
             "fiction",
             "2003",
@@ -5643,14 +5643,14 @@
             "pt_PT"
         ],
         [
-            "Como se produzem os mitos",
+            "História regional da infâmia",
             "Juremir Machado da Silva",
             "nonfiction",
             "2011",
             "pt_BR"
         ],
         [
-            "Guerra civil e desintegração",
+            "Iugoslávia",
             "Jurandir Soares",
             "nonfiction",
             "1999",
@@ -5664,7 +5664,7 @@
             "en_US"
         ],
         [
-            "Direito à memória e à verdade e os caminhos da reparação e da anistia no Brasil",
+            "Justiça de transição",
             "José Carlos Moreira da Silva Filho",
             "nonfiction",
             "2015",
@@ -5699,14 +5699,14 @@
             "pt_BR"
         ],
         [
-            "100 Pictures from the Collection of The Museum of Modern Art",
+            "Looking at Photographs",
             "John Szarkowski",
             "photobook",
             "2009",
             "en_US"
         ],
         [
-            "A Cultural History of Insanity",
+            "Madness in Civilization",
             "Andrew Scull",
             "nonfiction",
             "2015",
@@ -5727,21 +5727,21 @@
             "pt_BR"
         ],
         [
-            "Uma entrevista",
+            "Marxismo e liberalismo",
             "H. G. Wells",
             "nonfiction",
             "1946",
             "en"
         ],
         [
-            "Advanced techniques to build and administer scalable and reliable PostgreSQL database applications",
+            "Mastering PostgreSQL 12",
             "Hans-Jürgen Schönig",
             "nonfiction",
             "2019",
             "en"
         ],
         [
-            "A Survivor's Tale",
+            "Maus",
             "Itzhak Avraham ben Zeev",
             "comics",
             "2014",
@@ -5762,14 +5762,14 @@
             "pt_BR"
         ],
         [
-            "Penal, Constituição Federal e legislação complementar",
+            "Minicódigo Saraiva",
             "Juliana Nicoletti",
             "nonfiction",
             "2015",
             "pt_BR"
         ],
         [
-            "Processo Penal, Constituição Federal e legislação complementar",
+            "Minicódigo Saraiva",
             "Fabiana Dias da Rocha",
             "nonfiction",
             "2017",
@@ -5783,21 +5783,21 @@
             "pt_BR"
         ],
         [
-            "As novas aventuras de Macanudo Taurino",
+            "Não Tá Morto Quem Peleia",
             "Neltair Rebés Abreu",
             "comics",
             "",
             "pt_BR"
         ],
         [
-            "A selection of notes and anecdotes from around Newcastle upon Tyne",
+            "Newcastle Upon Tyne Dialect",
             "C. Sanderson",
             "dictionary",
             "2013",
             "en"
         ],
         [
-            "Don't Ever Give Up Your Dreams",
+            "Nunca desista de seus sonhos",
             "",
             "poetry",
             "2004",
@@ -5825,21 +5825,21 @@
             "pt_BR"
         ],
         [
-            "枕草子",
+            "O livro do travesseiro",
             "清少納言",
             "nonfiction",
             "2013",
             "ja_JP"
         ],
         [
-            "Strange Case of Dr Jekyll and Mr Hyde",
+            "O Médico e o Monstro",
             "Robert Louis Balfour Stevenson",
             "fiction",
             "2002",
             "en"
         ],
         [
-            "The Merchant of Venice",
+            "O Mercador de Veneza",
             "William Shakespeare",
             "fiction",
             "2012",
@@ -5860,14 +5860,14 @@
             "pt_BR"
         ],
         [
-            "Moelleux & coeurs coulants",
+            "Petit Gâteau e outros bolinhos doces e cremosos",
             "Paul Simon",
             "cookbook",
             "2012",
             "fr"
         ],
         [
-            "Documentação e actas do HAREM, a primeira avaliação conjunta na área",
+            "Reconhecimento de entidades mencionadas em português",
             "",
             "nonfiction",
             "2008",
@@ -5881,56 +5881,56 @@
             "en"
         ],
         [
-            "Blood, Sweat and Pixels",
+            "Sangue, Suor e Pixels",
             "Jason Schreier",
             "nonfiction",
             "2018",
             "en"
         ],
         [
-            "Histórias de mandinga e capoeiragem",
+            "Santugri",
             "Muniz Sodré de Araújo Cabral",
             "fiction",
             "2011",
             "pt_BR"
         ],
         [
-            "Peanuts",
+            "Snoopy",
             "Charles Monroe Schulz",
             "comics",
             "2008",
             "en"
         ],
         [
-            "Peanuts",
+            "Snoopy",
             "Charles Monroe Schulz",
             "comics",
             "2007",
             "en"
         ],
         [
-            "Peanuts",
+            "Snoopy",
             "Charles Monroe Schulz",
             "comics",
             "2007",
             "en"
         ],
         [
-            "Do Not Dare",
+            "Snoopy e sua Turma",
             "Charles Monroe Schulz",
             "comics",
             "2007",
             "en"
         ],
         [
-            "A Midsummer Night's Dream",
+            "Sonho de uma noite de verão",
             "William Shakespeare",
             "fiction",
             "2002",
             "en"
         ],
         [
-            "The Story of Shackleton's Last Expedition 1914-1917",
+            "South",
             "Sir Ernest Shackleton",
             "travelogue",
             "2016",
@@ -5944,56 +5944,56 @@
             "en"
         ],
         [
-            "The definitive guide to financial market returns and long-term investment strategies",
+            "Stocks for the long run",
             "Jeremy J. Siegel",
             "nonfiction",
             "",
             "en_US"
         ],
         [
-            "Crítica à estandardização do Direito e resgate hermenêutico",
+            "Súmulas, repercussão geral e recursos repetitivos",
             "Dalton Sausen",
             "nonfiction",
             "2013",
             "pt_BR"
         ],
         [
-            "Comédias",
+            "Teatro completo",
             "Ariano Suassuna",
             "fiction",
             "2018",
             "pt_BR"
         ],
         [
-            "Tragédias",
+            "Teatro completo",
             "Ariano Suassuna",
             "fiction",
             "2018",
             "pt_BR"
         ],
         [
-            "Entremezes",
+            "Teatro completo",
             "Ariano Suassuna",
             "fiction",
             "2018",
             "pt_BR"
         ],
         [
-            "fr",
+            "Teatro completo",
             "Molière",
             "fiction",
             "2018",
             "la"
         ],
         [
-            "Inkblots",
+            "Teste de Rorschach",
             "Damion Searls",
             "nonfiction",
             "2021",
             "en"
         ],
         [
-            "A Book of Lenses",
+            "The Art of Game Design",
             "Jesse Schell",
             "textbook",
             "2015",
@@ -6035,28 +6035,28 @@
             "pt_BR"
         ],
         [
-            "And how to build them",
+            "20 Master Plots",
             "Ronald B. Tobias",
             "nonfiction",
             "1993",
             "en"
         ],
         [
-            "Crônicas pitorescas das história do Brasil",
+            "500 Anos",
             "Eloy Divino Gonçalves Terra",
             "nonfiction",
             "1999",
             "pt_BR"
         ],
         [
-            "The Shape of Water",
+            "A forma da água",
             "Daniel Kraus",
             "fiction",
             "2018",
             "en"
         ],
         [
-            "Breven fran Maresi",
+            "Cartas de Maresi",
             "Maria Turtschaninoff",
             "fiction",
             "2021",
@@ -6070,7 +6070,7 @@
             "en"
         ],
         [
-            "Special Issue: The Very Best Papers of CASA 2004",
+            "Computer Animation & Virtual Worlds",
             "",
             "proceedings",
             "2004",
@@ -6084,21 +6084,21 @@
             "pt_BR"
         ],
         [
-            "The Saga of Liver-Eating Johnson",
+            "Crow Killer",
             "Robert Bunker",
             "biography",
             "1983",
             "en_US"
         ],
         [
-            "Execução forçada, processo nos tribunais, recursos e direito intertemporal",
+            "Curso de direito processual civil",
             "Humberto Theodoro Júnior",
             "textbook",
             "2016",
             "pt_BR"
         ],
         [
-            "Histórias de um hospital-prisão",
+            "Desterros",
             "Natalia Timerman",
             "nonfiction",
             "2017",
@@ -6112,21 +6112,21 @@
             "es"
         ],
         [
-            "Direito das obrigações e responsabilidade civil",
+            "Direito Civil",
             "Flávio Tartuce",
             "textbook",
             "2014",
             "pt_BR"
         ],
         [
-            "Война и мир",
+            "Guerra e Paz",
             "Liev Tolstói",
             "fiction",
             "2017",
             "de"
         ],
         [
-            "Война и мир",
+            "Guerra e Paz",
             "Liev Tolstói",
             "fiction",
             "2017",
@@ -6161,56 +6161,56 @@
             "pt_BR"
         ],
         [
-            "Or There and Back Again",
+            "O Hobbit",
             "John Ronald Reuel Tolkien",
             "fiction",
             "2003",
             "en"
         ],
         [
-            "Aventuras de um singular calculista persa",
+            "O Homem Que Calculava",
             "Júlio César de Mello e Souza",
             "fiction",
             "1998",
             "pt_BR"
         ],
         [
-            "The Lord of the Rings, part I: The Fellowship of the Ring",
+            "O Senhor dos Anéis",
             "John Ronald Reuel Tolkien",
             "fiction",
             "2001",
             "en_GB"
         ],
         [
-            "The Lord of the Rings, part II: The Two Towers",
+            "O Senhor dos Anéis",
             "John Ronald Reuel Tolkien",
             "fiction",
             "2001",
             "en_GB"
         ],
         [
-            "The Lord of the Rings, part III: The Return of the King",
+            "O Senhor dos Anéis",
             "John Ronald Reuel Tolkien",
             "fiction",
             "2001",
             "en_GB"
         ],
         [
-            "The Silmarillion",
+            "O Silmarillion",
             "John Ronald Reuel Tolkien",
             "fiction",
             "2009",
             "en"
         ],
         [
-            "Teoria e prática",
+            "Processo civil no direito de família",
             "Fernanda Tartuce",
             "textbook",
             "2018",
             "pt_BR"
         ],
         [
-            "Recopilación de recetas típicas de la Colonia Galesa del Chubut / Chubut Welsh Colony's traditional recipes",
+            "Recetario / Recipe book",
             "Norma Noemí Thomas de Thomas",
             "cookbook",
             "2014",
@@ -6238,7 +6238,7 @@
             "es"
         ],
         [
-            "Guia de Conversação",
+            "Alemão para Viagem",
             "Antonio Carlos Vilela",
             "nonfiction",
             "1996",
@@ -6252,14 +6252,14 @@
             "pt_BR"
         ],
         [
-            "Antologia definitiva",
+            "As Cobras",
             "Luis Fernando Verissimo",
             "comics",
             "2010",
             "pt_BR"
         ],
         [
-            "Um continente em mudança (1960-2010)",
+            "A África Moderna",
             "Paulo G. Fagundes Visentini",
             "nonfiction",
             "2010",
@@ -6273,7 +6273,7 @@
             "pt_BR"
         ],
         [
-            "As Crônicas do Fim do Mundo",
+            "A Noite Maldita",
             "André Vianco",
             "fiction",
             "2013",
@@ -6287,14 +6287,14 @@
             "pt_BR"
         ],
         [
-            "ou l'Optimisme",
+            "Cândido",
             "François-Marie Arouet",
             "fiction",
             "2010",
             "fr"
         ],
         [
-            "7th International Workshop, PROPOR 2006",
+            "Computational Processing of the Portuguese Langue",
             "",
             "proceedings",
             "2006",
@@ -6385,7 +6385,7 @@
             "pt_BR"
         ],
         [
-            "Gula",
+            "O clube dos anjos",
             "Luis Fernando Verissimo",
             "fiction",
             "1998",
@@ -6455,7 +6455,7 @@
             "pt_BR"
         ],
         [
-            "O Livro de Jó",
+            "O Turno da Noite",
             "André Vianco",
             "fiction",
             "2008",
@@ -6476,7 +6476,7 @@
             "pt_BR"
         ],
         [
-            "Correlation does not equal causation",
+            "Spurious correlations",
             "Tyler Vigen",
             "nonfiction",
             "2015",
@@ -6490,42 +6490,42 @@
             "pt_BR"
         ],
         [
-            "The New Frontiers",
+            "Unix Internals",
             "Uresh Vahalia",
             "nonfiction",
             "1996",
             "en"
         ],
         [
-            "Frases, reflexões e sacadas sobre quase tudo",
+            "Verissimas",
             "Luis Fernando Verissimo",
             "comics",
             "2016",
             "pt_BR"
         ],
         [
-            "The illustrated guide to creating imaginative fiction",
+            "Wonderbook",
             "Jeremy Zerfoss",
             "textbook",
             "2018",
             "en"
         ],
         [
-            "Arabisches Wörterbuch für die Schriftsprache der Gegenwart",
+            "Arabic-English Dictionary",
             "Hans Wehr",
             "dictionary",
             "1993",
             "de"
         ],
         [
-            "Arabisches Wörterbuch für die Schriftsprache der Gegenwart",
+            "Arabic-English Dictionary",
             "Hans Wehr",
             "dictionary",
             "1993",
             "de"
         ],
         [
-            "Wahrig: Kompaktwörterbuch Der Deutschen Sprache",
+            "Wahrig dicionário semibilíngue para brasileiros - Alemão",
             "",
             "dictionary",
             "2011",
@@ -6539,7 +6539,7 @@
             "pt_BR"
         ],
         [
-            "New Media as Story, Performance, and Game",
+            "First Person",
             "",
             "nonfiction",
             "2004",
@@ -6553,7 +6553,7 @@
             "en"
         ],
         [
-            "Something Under the Bed is Drooling",
+            "Há Monstros Debaixo da Cama?",
             "William Boyd Watterson II",
             "comics",
             "2007",
@@ -6574,49 +6574,49 @@
             "en"
         ],
         [
-            "I don't know much about wine, but I know what I like",
+            "Não entendo muito de vinho, mas sei do que gosto",
             "Simon Woods",
             "nonfiction",
             "2007",
             "en"
         ],
         [
-            "Recipes from Favorite Restaurants",
+            "New Orleans classic desserts",
             "Kit Wohl",
             "cookbook",
             "2012",
             "en_US"
         ],
         [
-            "It's a Magical World",
+            "O Mundo é Mágico",
             "William Boyd Watterson II",
             "comics",
             "2007",
             "en"
         ],
         [
-            "Dicionário de lugares-comuns e frases feitas",
+            "O pai dos burros",
             "Humberto Werneck",
             "dictionary",
             "2009",
             "pt_BR"
         ],
         [
-            "What Einstein Told His Cook",
+            "O que Einstein disse a seu cozinheiro",
             "Robert L. Wolke",
             "cookbook",
             "2003",
             "en"
         ],
         [
-            "Further adventures in kitchen science",
+            "O que Einstein disse a seu cozinheiro 2",
             "Robert L. Wolke",
             "cookbook",
             "2005",
             "en"
         ],
         [
-            "Rebel Planet",
+            "Planeta Rebelde",
             "Robin Waterfield",
             "gamebook",
             "",
@@ -6630,14 +6630,14 @@
             "en_US"
         ],
         [
-            "How Everything Has a History",
+            "Tudo Tem Uma História",
             "James Daybell",
             "nonfiction",
             "2019",
             "en"
         ],
         [
-            "VII Workshop sobre Software Livre",
+            "fisl 7.0",
             "",
             "proceedings",
             "2006",
@@ -6651,14 +6651,14 @@
             "en"
         ],
         [
-            "A thousand times more fair",
+            "Mil vezes mais justo",
             "Kenji Yoshino",
             "nonfiction",
             "2014",
             "en"
         ],
         [
-            "Para aprender e criar - Jogos profissionais",
+            "MSX Jogos",
             "Oscar Júlio Burd",
             "nonfiction",
             "1986",
@@ -6672,7 +6672,7 @@
             "en"
         ],
         [
-            "It's dark in London",
+            "A vida secreta de Londres",
             "Oscar Zarate",
             "comics",
             "2017",
@@ -6686,14 +6686,14 @@
             "fr"
         ],
         [
-            "The Year of Dreaming Dangerously",
+            "O ano em que sonhamos perigosamente",
             "Slavoj Žižek",
             "nonfiction",
             "2014",
             "en"
         ],
         [
-            "Crenças e Crendices",
+            "Religiões",
             "Urbano Ziles",
             "nonfiction",
             "2012",
@@ -6749,7 +6749,7 @@
             "it"
         ],
         [
-            "La conjugaison pour tous",
+            "Bescherelle",
             "",
             "grammar",
             "1997",
@@ -6770,7 +6770,7 @@
             "it"
         ],
         [
-            "Malu Receitas de Almoço",
+            "Carnes de panela",
             "",
             "cookbook",
             "2009",
@@ -6812,7 +6812,7 @@
             "pt_BR"
         ],
         [
-            "Beginners cookingclass",
+            "Cozinha para principiantes",
             "",
             "cookbook",
             "",
@@ -6840,7 +6840,7 @@
             "pt_BR"
         ],
         [
-            "The Guide",
+            "Eden Project",
             "",
             "guidebook",
             "2016",
@@ -6868,28 +6868,28 @@
             "pt_BR"
         ],
         [
-            "Geneva at hand",
+            "Genève Suisse",
             "",
             "guidebook",
             "2004",
             "en"
         ],
         [
-            "Unterwegs in Goslar, Hahnenklee und Umgebung",
+            "Goslarer Programm",
             "",
             "guidebook",
             "2007",
             "de_DE"
         ],
         [
-            "Tudo o que você precisa saber para ter espécies com técnica e saúde",
+            "Guia Como Cultivar Bonsai",
             "",
             "nonfiction",
             "",
             "pt_BR"
         ],
         [
-            "O Livro dos Recordes",
+            "Guiness Book 1995",
             "",
             "nonfiction",
             "1994",
@@ -6903,7 +6903,7 @@
             "de_DE"
         ],
         [
-            "Saved by its Friends",
+            "Highgate cemetery",
             "",
             "guidebook",
             "2016",
@@ -6931,14 +6931,14 @@
             "de"
         ],
         [
-            "Das Buch der Wandlungen",
+            "I Ching",
             "",
             "nonfiction",
             "2006",
             "zh"
         ],
         [
-            "Alimente suas relações",
+            "Juntos na cozinha",
             "",
             "cookbook",
             "",
@@ -6952,84 +6952,84 @@
             "en"
         ],
         [
-            "Grikenland",
+            "Koken in de wereld",
             "",
             "cookbook",
             "1995",
             "nl"
         ],
         [
-            "Indonesië",
+            "Koken in de wereld",
             "",
             "cookbook",
             "1994",
             "nl"
         ],
         [
-            "Spanje",
+            "Koken in de wereld",
             "",
             "cookbook",
             "1994",
             "nl"
         ],
         [
-            "Larousse les cuisines du monde",
+            "Larousse da Cozinha do Mundo",
             "",
             "cookbook",
             "2007",
             "fr"
         ],
         [
-            "Larousse les cuisines du monde",
+            "Larousse da Cozinha do Mundo",
             "",
             "cookbook",
             "2007",
             "fr"
         ],
         [
-            "Larousse les cuisines du monde",
+            "Larousse da Cozinha do Mundo",
             "",
             "cookbook",
             "2007",
             "fr"
         ],
         [
-            "Larousse les cuisines du monde",
+            "Larousse da Cozinha do Mundo",
             "",
             "cookbook",
             "2007",
             "fr"
         ],
         [
-            "Larousse les cuisines du monde",
+            "Larousse da Cozinha do Mundo",
             "",
             "cookbook",
             "2007",
             "fr"
         ],
         [
-            "Kitāb Alf layla wa layla",
+            "Livro das mil e uma noites",
             "",
             "fiction",
             "2015",
             "ar"
         ],
         [
-            "Kitāb Alf layla wa layla",
+            "Livro das mil e uma noites",
             "",
             "fiction",
             "2015",
             "ar"
         ],
         [
-            "Kitāb Alf layla wa layla",
+            "Livro das mil e uma noites",
             "",
             "fiction",
             "2015",
             "ar"
         ],
         [
-            "Kitāb Alf layla wa layla",
+            "Livro das mil e uma noites",
             "",
             "fiction",
             "2015",
@@ -7043,168 +7043,168 @@
             "pt_BR"
         ],
         [
-            "Unternehmensmitbestimmung und Betriebsverfassung",
+            "Mitbestimmung",
             "",
             "nonfiction",
             "1998",
             "de_DE"
         ],
         [
-            "Maracujá, coco, morango...",
+            "Musses",
             "",
             "cookbook",
             "2010",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Larry Mayer",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Hector Adolfo de Urtiága",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Anibal Uzál",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Horacio Saavedra",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Jaime Diaz Studio",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Anibal Uzál",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Hector Adolfo de Urtiága",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Carl Fallberg",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Anibal Uzál",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Hector Adolfo de Urtiága",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Eine Komische Historie",
+            "Pateta Faz História",
             "Tony Strobl",
             "comics",
             "2011",
             "pt_BR"
         ],
         [
-            "Fragmentos, doxografia e comentários",
+            "Pré-Socráticos",
             "Δημόκριτος",
             "nonfiction",
             "1991",
             "pt_BR"
         ],
         [
-            "Fáceis e práticas",
+            "Preparos de liquidificador",
             "",
             "cookbook",
             "",
@@ -7218,7 +7218,7 @@
             "en_US"
         ],
         [
-            "Le cordon bleu - Soups",
+            "Receitas caseiras",
             "",
             "cookbook",
             "2008",
@@ -7232,7 +7232,7 @@
             "pt_BR"
         ],
         [
-            "Direito Empresarial",
+            "Revista Síntese",
             "Vinicius Diniz Vizzotto",
             "nonfiction",
             "2014",
@@ -7246,7 +7246,7 @@
             "pt_BR"
         ],
         [
-            "Maximum Linux Security",
+            "Segurança Máxima para Linux",
             "",
             "nonfiction",
             "2000",
@@ -7260,28 +7260,28 @@
             "pt_BR"
         ],
         [
-            "Lehrwerk für Deutsch als Fremdsprache",
+            "Themen neu: Arbeitsbuch",
             "Uthild Schütze-Nöhmke",
             "workbook",
             "1999",
             "de_DE"
         ],
         [
-            "Lehrwerk für Deutsch als Fremdsprache",
+            "Themen neu: Arbeitsbuch",
             "Jutta Müller",
             "workbook",
             "1999",
             "de_DE"
         ],
         [
-            "Lehrwerk für Deutsch als Fremdsprache",
+            "Themen neu: Kursbuch",
             "Helmut Müller",
             "textbook",
             "2000",
             "de_DE"
         ],
         [
-            "Lehrwerk für Deutsch als Fremdsprache",
+            "Themen neu: Kursbuch",
             "Helmut Müller",
             "textbook",
             "1998",
@@ -7309,7 +7309,7 @@
             "en"
         ],
         [
-            "Visitor Guide",
+            "The Deep",
             "",
             "guidebook",
             "2017",
@@ -7337,21 +7337,21 @@
             "en_US"
         ],
         [
-            "Pocket Guide",
+            "This is Durham",
             "",
             "guidebook",
             "",
             "en_UK"
         ],
         [
-            "500 lugares extraordinários para comer no mundo todo",
+            "Viagens gastronômicas",
             "",
             "nonfiction travelogue",
             "2009",
             "pt_BR"
         ],
         [
-            "Malu Receitas",
+            "Batata",
             "",
             "cookbook",
             "2010",
@@ -7365,7 +7365,7 @@
             "jp_JP"
         ],
         [
-            "And on the eighth day",
+            "...E no oitavo dia",
             "Ellery Queen",
             "fiction",
             "1981",

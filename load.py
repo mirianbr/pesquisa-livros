@@ -1,5 +1,5 @@
 import glob
-
+import json
 
 def get_book_summary(bookfile):
     book_summary = {'title': '', 'author': '', 'subtype': '', 'year': '', 'lang': ''}
@@ -50,7 +50,7 @@ for book in book_list:
 
 print ("Total books read:", total_books)
 
+datatables_obj = {'data': books_to_data}
+
 with open('data/livros.txt', 'w', encoding='utf-8') as new_bookfile:
-    new_bookfile.write("{\"data\":")
-    new_bookfile.write(str(books_to_data))
-    new_bookfile.write("}")
+    json.dump(datatables_obj, new_bookfile, ensure_ascii=False, indent=4)

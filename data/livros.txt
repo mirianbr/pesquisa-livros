@@ -16,7 +16,7 @@
         ],
         [
             "Armazém do Folclore",
-            "Ricardo José Duff Azevedo",
+            "Ricardo Azevedo",
             "fiction",
             "2015",
             "pt_BR"
@@ -30,7 +30,7 @@
         ],
         [
             "As dobraduras de Papelino",
-            "Lena das dobraduras",
+            "Maria Helena Costa Valente Aschenbach",
             "fiction",
             "1989",
             "pt_BR"
@@ -72,10 +72,10 @@
         ],
         [
             "O Guia do Mochileiro das Galáxias",
-            "Douglas Noel Adams",
+            "Douglas Adams",
             "fiction",
             "2004",
-            "en"
+            "pt_BR"
         ],
         [
             "Bacia das almas",
@@ -107,7 +107,7 @@
         ],
         [
             "Contos de enganar a morte",
-            "Ricardo José Duff Azevedo",
+            "Ricardo Azevedo",
             "fiction",
             "2016",
             "pt_BR"
@@ -131,7 +131,7 @@
             "Scott Adams",
             "comics",
             "2008",
-            "en"
+            "pt_BR"
         ],
         [
             "Dom Casmurro",
@@ -152,11 +152,11 @@
             "Aristóteles",
             "nonfiction",
             "2017",
-            "gr"
+            "pt_BR"
         ],
         [
             "Flatland",
-            "A. Square",
+            "Edwin A. Abbott",
             "fiction",
             "1992",
             "en"
@@ -173,7 +173,7 @@
             "Chimamanda Ngozi Adichie",
             "fiction",
             "2008",
-            "en_NG"
+            "pt_BR"
         ],
         [
             "Memórias de um sargento de milícias",
@@ -205,21 +205,21 @@
         ],
         [
             "Origens do totalitarismo",
-            "Johanna Arendt",
+            "Hannah Arendt",
             "nonfiction",
             "2014",
-            "en"
+            "pt_BR"
         ],
         [
             "Os testamentos",
             "Margaret Atwood",
             "fiction",
             "2019",
-            "en"
+            "pt_BR"
         ],
         [
             "O Alienista",
-            "Joaquim Maria Machado de Assis",
+            "Machado de Assis",
             "fiction",
             "2007",
             "pt_BR"
@@ -229,35 +229,35 @@
             "Alberto Acosta",
             "nonfiction",
             "2016",
-            "es"
+            "pt_BR"
         ],
         [
             "O conto da aia",
             "Margaret Atwood",
             "fiction",
             "2017",
-            "en"
+            "pt_BR"
         ],
         [
             "A Vida, o Universo e Tudo Mais",
-            "Douglas Noel Adams",
+            "Douglas Adams",
             "fiction",
             "2005",
-            "en"
+            "pt_BR"
         ],
         [
             "O princípio Dilbert",
             "Scott Adams",
             "comics",
             "1997",
-            "en"
+            "pt_BR"
         ],
         [
             "O Restaurante no Fim do Universo",
-            "Douglas Noel Adams",
+            "Douglas Adams",
             "fiction",
             "2004",
-            "en"
+            "pt_BR"
         ],
         [
             "Poesia fora da estante",
@@ -278,7 +278,7 @@
             "Jane Austen",
             "fiction",
             "2015",
-            "en"
+            "pt_BR"
         ],
         [
             "Redemoinho em dia quente",
@@ -296,14 +296,14 @@
         ],
         [
             "Sergio Aragonés",
-            "Sergio Aragonés Domenech",
+            "Sergio Aragonés",
             "comics",
             "2010",
             "en"
         ],
         [
             "There Are No Electrons",
-            "Kenneth Amdahl",
+            "Kenn Amdahl",
             "fiction",
             "1998",
             "en_US"
@@ -341,14 +341,14 @@
             "",
             "guidebook",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "Antonia e suas filhas",
             "Marlena de Blasi",
             "travelogue",
             "2013",
-            "en"
+            "pt_BR"
         ],
         [
             "Ariano Suassuna",
@@ -359,17 +359,17 @@
         ],
         [
             "A natural history of dragons",
-            "Bryn Neuenschwander",
+            "Marie Brennan",
             "fiction",
             "2014",
             "en"
         ],
         [
             "A parábola do semeador",
-            "Octavia Estelle Butler",
+            "Octavia E. Butler",
             "fiction",
             "2018",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Board Game Design Advice",
@@ -404,7 +404,7 @@
             "Norberto Bobbio",
             "nonfiction",
             "2015",
-            "it"
+            "pt_BR"
         ],
         [
             "Dicionário Espanhol-Português e Português-Espanhol",
@@ -418,14 +418,14 @@
             "Norberto Bobbio",
             "nonfiction",
             "1995",
-            "it_IT"
+            "pt_BR"
         ],
         [
             "Dos delitos e das penas",
             "Cesare Beccaria",
             "nonfiction",
             "2012",
-            "it_IT"
+            "pt_BR"
         ],
         [
             "Effective Java",
@@ -439,21 +439,21 @@
             "Norberto Bobbio",
             "nonfiction",
             "2011",
-            "it"
+            "pt_BR"
         ],
         [
             "Em busca de inspiração",
             "Richard Bach",
             "fiction",
             "2004",
-            "en"
+            "pt_BR"
         ],
         [
             "Enterrem Meu Coração na Curva do Rio",
-            "Dorris Alexander \"Dee\" Brown",
+            "Dee Brown",
             "nonfiction",
             "2005",
-            "en"
+            "pt_BR"
         ],
         [
             "Era Einstein socialista?",
@@ -474,14 +474,14 @@
             "Norberto Bobbio",
             "nonfiction",
             "2017",
-            "it"
+            "pt_BR"
         ],
         [
             "Fahrenheit 451",
             "Ray Bradbury",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "fisl 8.0",
@@ -495,7 +495,7 @@
             "Valeriano Bozal",
             "guidebook",
             "2005",
-            "es_ES"
+            "en"
         ],
         [
             "Geografías",
@@ -509,11 +509,11 @@
             "Dave Boling",
             "fiction",
             "2009",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Guide pour la recherche des idées dans les dissertations et les études littéraires",
-            "H. Bénac",
+            "Henri Bénac",
             "dictionary",
             "1962",
             "fr_FR"
@@ -523,14 +523,14 @@
             "John J. Miller",
             "handbook",
             "1994",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Kindred",
             "Octavia E. Butler",
             "fiction",
             "2017",
-            "Kindred"
+            "en_US"
         ],
         [
             "Mazes for Programmers",
@@ -558,11 +558,11 @@
             "Zygmunt Bauman",
             "nonfiction",
             "2001",
-            "en"
+            "pt_BR"
         ],
         [
             "Narratology",
-            "Maria Gertrudis Bal",
+            "Mieke Bal",
             "textbook",
             "2009",
             "en"
@@ -572,84 +572,84 @@
             "Yoav Blum",
             "fiction",
             "2017",
-            "en"
+            "pt_BR"
         ],
         [
             "O Código Da Vinci",
-            "Daniel Brown",
+            "Dan Brown",
             "fiction",
             "2004",
-            "en"
+            "pt_BR"
         ],
         [
             "O futuro da democracia",
             "Norberto Bobbio",
             "textbook",
             "2017",
-            "it"
+            "pt_BR"
         ],
         [
             "O grande livro das tortas",
             "Caroline Bretherton",
             "cookbook",
             "2013",
-            "en"
+            "pt_BR"
         ],
         [
             "O guia de sobrevivência a zumbis",
             "Max Brooks",
             "fiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "O ladrão de cadáveres",
             "James Bradley",
             "fiction",
             "2013",
-            "en_AU"
+            "pt_BR"
         ],
         [
             "O Livro da Mitologia",
             "Thomas Bulfinch",
             "fiction",
             "2013",
-            "en"
+            "pt_BR"
         ],
         [
             "O Livro dos Lobisomens",
             "Sabine Baring-Gould",
             "fiction",
             "2008",
-            "en"
+            "pt_BR"
         ],
         [
             "O livro dos seres imaginários",
             "Jorge Luis Borges",
             "dictionary",
             "2011",
-            "es"
+            "pt_BR"
         ],
         [
             "O melhor de Hagar, o Horrível 1",
-            "Richard Arthur Allan Browne",
+            "Dik Browne",
             "comics",
             "2005",
-            "en"
+            "pt_BR"
         ],
         [
             "O melhor de Hagar, o Horrível 2",
-            "Richard Arthur Allan Browne",
+            "Dik Browne",
             "comics",
             "2005",
-            "en"
+            "pt_BR"
         ],
         [
             "O positivismo jurídico",
             "Norberto Bobbio",
             "textbook",
             "2006",
-            "it"
+            "pt_BR"
         ],
         [
             "O Positivismo Jurídico Contemporâneo",
@@ -677,7 +677,7 @@
             "Inés Bortagaray",
             "fiction",
             "",
-            "en"
+            "es"
         ],
         [
             "Sociedades Artificiais",
@@ -691,7 +691,7 @@
             "Caroline Barty",
             "cookbook",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "Telling lies for fun and profit",
@@ -705,7 +705,7 @@
             "Norberto Bobbio",
             "textbook",
             "2010",
-            "it"
+            "pt_BR"
         ],
         [
             "The Cat Who Tailed A Thief",
@@ -730,7 +730,7 @@
         ],
         [
             "The tropic of serpents",
-            "Bryn Neuenschwander",
+            "Marie Brennan",
             "fiction",
             "2014",
             "en"
@@ -747,18 +747,18 @@
             "Marlena de Blasi",
             "nonfiction",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "Volta ao mundo",
             "Laurie Woolever",
             "travelogue",
             "2021",
-            "en"
+            "pt_BR"
         ],
         [
             "Voyage of the Basilisk",
-            "Bryn Neuenschwander",
+            "Marie Brennan",
             "fiction",
             "2015",
             "en"
@@ -768,14 +768,14 @@
             "Bernard Cornwell",
             "fiction",
             "2013",
-            "en"
+            "pt_BR"
         ],
         [
             "Acesso à justiça",
             "Bryant Garth",
             "nonfiction",
             "1988",
-            "en"
+            "pt_BR"
         ],
         [
             "Adeus ao Patativa",
@@ -793,17 +793,17 @@
         ],
         [
             "Alice no País das Maravilhas",
-            "Charles Lutwidge Dodgson",
+            "Lewis Carroll",
             "fiction",
             "2003",
-            "en"
+            "pt_BR"
         ],
         [
             "Alice no País do Espelho",
-            "Charles Lutwidge Dodgson",
+            "Lewis Carroll",
             "fiction",
             "2004",
-            "en"
+            "pt_BR"
         ],
         [
             "Antologia do Folclore Brasileiro",
@@ -824,21 +824,21 @@
             "Agatha Christie",
             "fiction",
             "2000",
-            "en"
+            "pt_BR"
         ],
         [
             "As Coligações de Kether",
             "Andrew Chapman",
             "gamebook",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "As misérias do processo penal",
             "Francesco Carnelutti",
             "nonfiction",
             "2017",
-            "it"
+            "pt_BR"
         ],
         [
             "Ayrton Senna",
@@ -852,21 +852,21 @@
             "Archibald Joseph Cronin",
             "fiction",
             "1966",
-            "en"
+            "pt_BR"
         ],
         [
             "A casa do penhasco",
             "Agatha Christie",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "A casa torta",
             "Agatha Christie",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "A Classical Primer",
@@ -880,14 +880,14 @@
             "Suzanne Collins",
             "fiction",
             "2011",
-            "en_US"
+            "pt_BR"
         ],
         [
             "A extravagância do morto",
             "Agatha Christie",
             "fiction",
             "1980",
-            "en"
+            "pt_BR"
         ],
         [
             "A madona de cedro",
@@ -901,7 +901,7 @@
             "Robert P. Crease",
             "nonfiction",
             "2013",
-            "en"
+            "pr_BR"
         ],
         [
             "A morte da culpa na responsabilidade contratual",
@@ -915,18 +915,18 @@
             "Agatha Christie",
             "fiction",
             "1987",
-            "en"
+            "pt_BR"
         ],
         [
             "A trança",
             "Laetitia Colombani",
             "fiction",
             "2020",
-            "fr"
+            "pt_BR"
         ],
         [
             "Banco",
-            "Papillon",
+            "Henri Charrière",
             "biography",
             "1972",
             "fr_FR"
@@ -936,7 +936,7 @@
             "Lionel Casson",
             "nonfiction",
             "2018",
-            "en"
+            "pt_BR"
         ],
         [
             "Cada homem é uma raça",
@@ -947,7 +947,7 @@
         ],
         [
             "Cadê a graça que tava aqui?",
-            "Renato Vinícius Canini",
+            "Canini",
             "comics",
             "1983",
             "pt_BR"
@@ -957,7 +957,7 @@
             "Agatha Christie",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "Cazacurioso",
@@ -999,7 +999,7 @@
             "Francesco Carnelutti",
             "nonfiction",
             "2018",
-            "it"
+            "pt_BR"
         ],
         [
             "Contos",
@@ -1020,7 +1020,7 @@
             "Jorge Carrión",
             "nonfiction",
             "2020",
-            "es_ES"
+            "pt_BR"
         ],
         [
             "Dalai Lama",
@@ -1034,14 +1034,14 @@
             "Agatha Christie",
             "fiction",
             "1976",
-            "en"
+            "pt_BR"
         ],
         [
             "Desenho para descobrir o artista interior",
             "Quentin Blake",
             "drawing",
             "2015",
-            "en"
+            "pt_BR"
         ],
         [
             "Diccionario de creencias y supersticiones argentinas y americanas",
@@ -1069,7 +1069,7 @@
             "Augusto Comte",
             "nonfiction",
             "",
-            "fr"
+            "pt_BR"
         ],
         [
             "Dominando o Expert",
@@ -1080,7 +1080,7 @@
         ],
         [
             "Don Quijote de la Mancha",
-            "Miguel de Cervantes Saavedra",
+            "Miguel de Cervantes",
             "fiction",
             "2004",
             "es_ES"
@@ -1090,21 +1090,21 @@
             "Piero Calamandrei",
             "nonfiction",
             "2015",
-            "it"
+            "pt_BR"
         ],
         [
             "Em chamas",
             "Suzanne Collins",
             "fiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "Erzurum City Guide",
             "",
             "guidebook",
             "2012",
-            "tr"
+            "en"
         ],
         [
             "E o Bento Levou...",
@@ -1125,14 +1125,14 @@
             "Martin Allen",
             "gamebook",
             "1991",
-            "en"
+            "pt_BR"
         ],
         [
             "Fúria de Príncipes",
             "Martin Allen",
             "gamebook",
             "1991",
-            "en"
+            "pt_BR"
         ],
         [
             "Generative Programming",
@@ -1167,7 +1167,7 @@
             "Henri Cartier-Bresson",
             "photobook",
             "2006",
-            "fr"
+            "en"
         ],
         [
             "História da Alimentação no Brasil",
@@ -1188,7 +1188,7 @@
             "Suzanne Collins",
             "fiction",
             "2010",
-            "en"
+            "pt_BR"
         ],
         [
             "John Lennon",
@@ -1206,7 +1206,7 @@
         ],
         [
             "La cité antique",
-            "Numa Denis Fustel de Coulanges",
+            "Fustel de Coulanges",
             "textbook",
             "",
             "fr_FR"
@@ -1244,7 +1244,7 @@
             "Jorge Carrión",
             "nonfiction",
             "2020",
-            "es"
+            "pt_BR"
         ],
         [
             "Locuções Tradicionais no Brasil",
@@ -1307,7 +1307,7 @@
             "Mark Carwardine",
             "nonfiction",
             "2005",
-            "en"
+            "pt_BR"
         ],
         [
             "Notas sobre o anarquismo",
@@ -1321,7 +1321,7 @@
             "Agatha Christie",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "O cacau é show",
@@ -1349,14 +1349,14 @@
             "Agatha Christie",
             "fiction",
             "",
-            "The Sittaford Mistery"
+            "pt_BR"
         ],
         [
             "O mistério do trem azul",
             "Agatha Christie",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "O Mundo das Lendas",
@@ -1370,42 +1370,42 @@
             "John Case",
             "fiction",
             "2006",
-            "en_US"
+            "pt_BR"
         ],
         [
             "O ponto de mutação",
             "Fritjof Capra",
             "nonfiction",
             "2006",
-            "en"
+            "pt_BR"
         ],
         [
             "O sonho do cartógrafo",
             "James Cowan",
             "fiction",
             "1997",
-            "en"
+            "pt_BR"
         ],
         [
             "O visitante inesperado",
             "Charles Osborne",
             "fiction",
             "2000",
-            "en"
+            "pt_BR"
         ],
         [
             "Passageiro para Frankfurt",
             "Agatha Christie",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "Por que não pediram a Evans?",
             "Agatha Christie",
             "fiction",
             "2006",
-            "en"
+            "pt_BR"
         ],
         [
             "Programa de direito do consumidor",
@@ -1419,7 +1419,7 @@
             "Bernard Cornwell",
             "fiction",
             "2014",
-            "en"
+            "pt_BR"
         ],
         [
             "Sempreviva",
@@ -1433,7 +1433,7 @@
             "Bernard Cornwell",
             "fiction",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "Superstição no Brasil",
@@ -1447,7 +1447,7 @@
             "Frank Cunningham",
             "textbook",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "Teoria geral do delito e da imputação objetiva",
@@ -1503,7 +1503,7 @@
             "Agatha Christie",
             "fiction",
             "2006",
-            "en"
+            "pt_BR"
         ],
         [
             "Você é insubstituível",
@@ -1538,7 +1538,7 @@
             "Sir Arthur Conan Doyle",
             "fiction",
             "2001",
-            "en"
+            "pt_BR"
         ],
         [
             "Bivar",
@@ -1559,14 +1559,14 @@
             "",
             "nonfiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "Crime e Castigo",
-            "Фёдор Миха́йлович Достое́вский",
+            "Fiódor Dostoiévski",
             "fiction",
             "2001",
-            "ru"
+            "pt_BR"
         ],
         [
             "Curso de direito processual civil",
@@ -1587,21 +1587,21 @@
             "René Descartes",
             "nonfiction",
             "2006",
-            "fr"
+            "pt_BR"
         ],
         [
             "Garfield",
-            "James Robert Davis",
+            "Jim Davis",
             "comics",
             "2006",
-            "en"
+            "pt_BR"
         ],
         [
             "Garfield Numa Boa",
-            "James Robert Davis",
+            "Jim Davis",
             "comics",
             "2006",
-            "en"
+            "pt_BR"
         ],
         [
             "Justice for Hedgehogs",
@@ -1615,7 +1615,7 @@
             "Cristopher Dell",
             "nonfiction",
             "2016",
-            "en"
+            "pt_BR"
         ],
         [
             "Os contos e os vigários",
@@ -1629,7 +1629,7 @@
             "Sir Arthur Conan Doyle",
             "fiction",
             "2003",
-            "en"
+            "pt_BR"
         ],
         [
             "O Guia dos Curiosos",
@@ -1664,35 +1664,35 @@
             "Maurice Druon",
             "fiction",
             "1973",
-            "fr_FR"
+            "pt_BR"
         ],
         [
             "O roubo da coroa de berilos e outras aventuras",
             "Sir Arthur Conan Doyle",
             "fiction",
             "2003",
-            "en"
+            "pt_BR"
         ],
         [
             "O signo dos quatro",
             "Sir Arthur Conan Doyle",
             "fiction",
             "2003",
-            "en"
+            "pt_BR"
         ],
         [
             "Princípios da Filosofia",
             "René Descartes",
             "nonfiction",
             "2005",
-            "fr_FR"
+            "pt_BR"
         ],
         [
             "Religião e Magia no Antigo Egito",
             "Rosalie David",
             "nonfiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "Shake Down the Stars",
@@ -1734,14 +1734,14 @@
             "Sir Arthur Conan Doyle",
             "fiction",
             "1998",
-            "en"
+            "pt_BR"
         ],
         [
             "Vamos matar o professor?",
             "Lois Duncan",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "Vida e obra de Terêncio Horto",
@@ -1762,14 +1762,14 @@
             "Umberto Eco",
             "fiction",
             "1995",
-            "it_IT"
+            "pt_BR"
         ],
         [
             "Baudolino",
             "Umberto Eco",
             "fiction",
             "2001",
-            "it_IT"
+            "pt_BR"
         ],
         [
             "Cidadã de segunda classe",
@@ -1783,14 +1783,14 @@
             "Umberto Eco",
             "nonfiction",
             "2013",
-            "it_IT"
+            "pt_BR"
         ],
         [
             "Elogio da Loucura",
-            "Erasmus of Rotterdam",
+            "Erasmo de Rotterdam",
             "nonfiction",
             "2005",
-            "la"
+            "pt_BR"
         ],
         [
             "Estonian Cuisine",
@@ -1818,42 +1818,42 @@
             "Jean-Claude Carrière",
             "nonfiction",
             "2010",
-            "fr"
+            "pt_BR"
         ],
         [
             "Número Zero",
             "Umberto Eco",
             "fiction",
             "2015",
-            "it_IT"
+            "pt_BR"
         ],
         [
             "O cemitério de praga",
             "Umberto Eco",
             "nonfiction",
             "2016",
-            "it"
+            "pt_BR"
         ],
         [
             "O círculo",
             "Dave Eggers",
             "fiction",
             "2014",
-            "en_US"
+            "pt_BR"
         ],
         [
             "O Nome da Rosa",
             "Umberto Eco",
             "fiction",
             "2002",
-            "it"
+            "pt_BR"
         ],
         [
             "O Pêndulo de Foucault",
             "Umberto Eco",
             "fiction",
             "2009",
-            "it_IT"
+            "pt_BR"
         ],
         [
             "Agosto",
@@ -1892,7 +1892,7 @@
         ],
         [
             "As melhores histórias da mitologia celta",
-            "Ademilson S. Franchini",
+            "A. S. Franchini",
             "fiction",
             "2011",
             "pt_BR"
@@ -1920,10 +1920,10 @@
         ],
         [
             "A interpretação dos sonhos",
-            "Sigismund Schlomo Freud",
+            "Sigmund Freud",
             "nonfiction",
             "2001",
-            "de"
+            "pt_BR"
         ],
         [
             "A Short History of Drunkenness",
@@ -1937,14 +1937,14 @@
             "Claire Fäy",
             "drawing",
             "2008",
-            "fr_FR"
+            "pt_BR"
         ],
         [
             "Mulheres, corpo e acumulação primitiva",
             "Silvia Federici",
             "nonfiction",
             "2017",
-            "en"
+            "pt_BR"
         ],
         [
             "Chimangos e Maragatos",
@@ -1965,7 +1965,7 @@
             "Édouard Fraissinet",
             "nonfiction",
             "2005",
-            "fr"
+            "pt_BR"
         ],
         [
             "Explicando a Filosofia com Arte",
@@ -2039,31 +2039,31 @@
         ],
         [
             "O caso dos exploradores de caverna",
-            "Lon Luvois Fuller",
+            "Lon L. Fuller",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "O crepúsculo e a aurora",
             "Ken Follet",
             "fiction",
             "2020",
-            "en_US"
+            "pt_BR"
         ],
         [
             "O dia do chacal",
             "Frederick Forsyth",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "O fim do mundo",
             "Otto Friedrich",
             "nonfiction",
             "2000",
-            "en"
+            "pt_BR"
         ],
         [
             "O homem do princípio ao fim",
@@ -2074,7 +2074,7 @@
         ],
         [
             "O Livro Vermelho dos Pensamentos de Millôr",
-            "Milton Viola Fernandes",
+            "Millôr Fernandes",
             "nonfiction",
             "2005",
             "pt_BR"
@@ -2091,7 +2091,7 @@
             "Gustave Flaubert",
             "fiction",
             "1905",
-            "fr"
+            "pt_PT"
         ],
         [
             "San Miguel",
@@ -2105,7 +2105,7 @@
             "Frederick Forsyth",
             "fiction",
             "2000",
-            "en"
+            "pt_BR"
         ],
         [
             "TCP/IP Illustrated",
@@ -2130,7 +2130,7 @@
         ],
         [
             "The Origins of Political Order",
-            "Yoshihiro Francis Fukuyama",
+            "Francis Fukuyama",
             "nonfiction",
             "2012",
             "en_US"
@@ -2154,7 +2154,7 @@
             "Michel Foucault",
             "nonfiction",
             "2016",
-            "fr"
+            "pt_BR"
         ],
         [
             "A Dança do Universo",
@@ -2168,28 +2168,28 @@
             "Larry Gonick",
             "comics",
             "1992",
-            "en"
+            "pt_BR"
         ],
         [
             "A história do universo em quadrinhos",
             "Larry Gonick",
             "comics",
             "1991",
-            "en"
+            "pt_BR"
         ],
         [
             "A história do universo em quadrinhos",
             "Larry Gonick",
             "comics",
             "1993",
-            "en"
+            "pt_BR"
         ],
         [
             "A lei de Murphy na era da informática",
             "Joachim Graf",
             "fiction",
             "1997",
-            "de"
+            "pt_BR"
         ],
         [
             "Bullshit jobs",
@@ -2210,28 +2210,28 @@
             "Jan Gehl",
             "nonfiction",
             "2015",
-            "en"
+            "pt_BR"
         ],
         [
             "Comprometida",
             "Elizabeth Gilbert",
             "nonfiction",
             "2010",
-            "en"
+            "pt_BR"
         ],
         [
             "Coraline",
             "Neil Gaiman",
             "fiction",
             "2020",
-            "en"
+            "pt_BR"
         ],
         [
             "Deuses americanos",
             "Neil Gaiman",
             "fiction",
             "2016",
-            "en"
+            "pt_BR"
         ],
         [
             "Diário de um Repórter",
@@ -2266,7 +2266,7 @@
             "Graham Greene",
             "fiction",
             "2000",
-            "en"
+            "pt_BR"
         ],
         [
             "Favourite Teatime Recipes",
@@ -2287,7 +2287,7 @@
             "Terry Pratchett",
             "fiction",
             "2019",
-            "en"
+            "pt_BR"
         ],
         [
             "Historias del Palacio Salvo",
@@ -2298,14 +2298,14 @@
         ],
         [
             "Hood Struggle",
-            "Kevin Antoine Guillard",
+            "Kevin Guillard",
             "fiction",
             "",
             "en_US"
         ],
         [
             "Interactive Storytelling",
-            "Andrew S. Glassner",
+            "Andrew Glassner",
             "nonfiction",
             "2004",
             "en_US"
@@ -2322,7 +2322,7 @@
             "Noah Gordon",
             "fiction",
             "2008",
-            "en"
+            "pt_BR"
         ],
         [
             "Los hijos de los días",
@@ -2350,70 +2350,70 @@
             "Neil Gaiman",
             "fiction",
             "2017",
-            "en"
+            "pt_BR"
         ],
         [
             "Nova antologia do conto russo (1792-1998)",
-            "Владимир Георгиевич Сорокин",
+            "Vladímir Sorókin",
             "fiction",
             "2012",
-            "ru"
+            "pt_BR"
         ],
         [
             "Orgulho e preconceito e zumbis",
             "Seth Grahame-Smith",
             "fiction",
             "2010",
-            "en"
+            "pt_BR"
         ],
         [
             "Os filhos de Anansi",
             "Neil Gaiman",
             "fiction",
             "2015",
-            "en"
+            "pt_BR"
         ],
         [
             "Os sofrimentos do jovem Werther",
             "Johann Wolfgang Goethe",
             "fiction",
             "2004",
-            "de"
+            "pt_BR"
         ],
         [
             "O dia do curinga",
             "Jostein Gaarder",
             "fiction",
             "1996",
-            "no"
+            "pt_BR"
         ],
         [
             "O Livro das Religiões",
             "Henry Notaker",
             "nonfiction",
             "2001",
-            "en"
+            "pt_BR"
         ],
         [
             "O Livro do Chá",
             "Linda Gaylard",
             "cookbook",
             "2016",
-            "en"
+            "pt_BR"
         ],
         [
             "O nascimento do purgatório",
             "Jacques Le Goff",
             "nonfiction",
             "2017",
-            "fr"
+            "pt_BR"
         ],
         [
             "O oceano no fim do caminho",
             "Neil Gaiman",
             "fiction",
             "2013",
-            "en"
+            "pt_BR"
         ],
         [
             "O que é isso, companheiro?",
@@ -2434,7 +2434,7 @@
             "William Golding",
             "fiction",
             "2014",
-            "en"
+            "pt_BR"
         ],
         [
             "Patagonia",
@@ -2462,7 +2462,7 @@
             "Hugo Américi",
             "nonfiction",
             "2014",
-            "fr"
+            "en"
         ],
         [
             "Telecomunicações",
@@ -2525,21 +2525,21 @@
             "Yuval Noah Harari",
             "nonfiction",
             "2020",
-            "en"
+            "pt_BR"
         ],
         [
             "Aleister Crowley",
             "RH Stewart",
             "comics",
             "2018",
-            "en"
+            "pt_BR"
         ],
         [
             "A estrada da noite",
             "Joe Hill",
             "fiction",
             "2007",
-            "en"
+            "pt_BR"
         ],
         [
             "Dicionário Houaiss da língua portuguesa",
@@ -2564,7 +2564,7 @@
         ],
         [
             "Gödel, Escher, Bach",
-            "Douglas Richard Hofstadter",
+            "Douglas R. Hofstadter",
             "nonfiction",
             "1999",
             "en"
@@ -2578,7 +2578,7 @@
         ],
         [
             "Henfil na China",
-            "Henrique de Souza Filho",
+            "Henfil",
             "travelogue",
             "1981",
             "pt_BR"
@@ -2588,14 +2588,14 @@
             "Yuval Noah Harari",
             "nonfiction",
             "2016",
-            "en"
+            "pt_BR"
         ],
         [
             "Horkheimer Adorno",
-            "Theodor Wiesengrund-Adorno",
+            "Theodor W. Adorno",
             "nonfiction",
             "1991",
-            "de"
+            "pt_BR"
         ],
         [
             "HP 48G Series Quick Start Guide",
@@ -2616,7 +2616,7 @@
             "David Hume",
             "nonfiction",
             "2006",
-            "en"
+            "pt_B"
         ],
         [
             "Japanese Kanji and Kana",
@@ -2630,14 +2630,14 @@
             "Pierre Hermé",
             "cookbook",
             "2007",
-            "fr_FR"
+            "pt_BR"
         ],
         [
             "Larousse do chocolate",
             "Pierre Hermé",
             "cookbook",
             "2006",
-            "fr_FR"
+            "pt_BR"
         ],
         [
             "Lendas e narrativas",
@@ -2651,14 +2651,14 @@
             "Thomas Hobbes",
             "nonfiction",
             "2015",
-            "en"
+            "pt_BR"
         ],
         [
             "Mestre das Chamas",
             "Joe Hill",
             "fiction",
             "2017",
-            "en"
+            "pt_BR"
         ],
         [
             "Morrer e suceder",
@@ -2672,21 +2672,21 @@
             "Jürgen Habermas",
             "nonfiction",
             "2003",
-            "de"
+            "pt_BR"
         ],
         [
             "Os Economistas",
-            "Robert Louis Heilbroner",
+            "Robert Heilbroner",
             "nonfiction",
             "1996",
-            "en"
+            "pt_BR"
         ],
         [
             "O feminismo é para todo mundo",
             "bell hooks",
             "nonfiction",
             "2019",
-            "en_US"
+            "pt_BR"
         ],
         [
             "O homem cordial",
@@ -2700,21 +2700,21 @@
             "Thomas Harris",
             "fiction",
             "2008",
-            "en"
+            "pt_BR"
         ],
         [
             "O universo numa casca de noz",
             "Stephen Hawking",
             "nonfiction",
             "2001",
-            "en"
+            "pt_BR"
         ],
         [
             "Philosophical introductions",
             "Jürgen Habermas",
             "nonfiction",
             "2018",
-            "de"
+            "en"
         ],
         [
             "Raízes do Brasil",
@@ -2728,7 +2728,7 @@
             "Yuval Noah Harari",
             "nonfiction",
             "2018",
-            "en"
+            "pt_BR"
         ],
         [
             "Silicon Second Nature",
@@ -2742,7 +2742,7 @@
             "Byung-Chul Han",
             "nonfiction",
             "2017",
-            "de"
+            "pt_BR"
         ],
         [
             "The Art of Electronics",
@@ -2763,14 +2763,14 @@
             "Stephen Hawking",
             "nonfiction",
             "2015",
-            "en"
+            "pt_BR"
         ],
         [
             "Cuentos de La Alhambra",
             "Washington Irving",
             "travelogue",
             "",
-            "en"
+            "es"
         ],
         [
             "Glorious American food",
@@ -2781,7 +2781,7 @@
         ],
         [
             "Máximas e Mínimas do Barão de Itararé",
-            "Apporelly",
+            "Barão de Itararé",
             "fiction",
             "1987",
             "pt_BR"
@@ -2791,21 +2791,21 @@
             "Kazuo Ishiguro",
             "fiction",
             "2015",
-            "en_UK"
+            "pt_BR"
         ],
         [
             "As Guerras de Trolltooth",
             "Steve Jackson",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "A luta pelo direito",
             "Rudolph von Jhering",
             "nonfiction",
             "2012",
-            "de_DE"
+            "pt_BR"
         ],
         [
             "Epic Battles of the Last Days",
@@ -2819,35 +2819,35 @@
             "Jonathan Case",
             "comics",
             "2021",
-            "en"
+            "pt_BR"
         ],
         [
             "GURPS Módulo Básico",
             "Steve Jackson",
             "fiction",
             "1991",
-            "en"
+            "pt_BR"
         ],
         [
             "GURPS Viagem no Tempo",
             "John M. Ford",
             "fiction",
             "1993",
-            "en"
+            "pt_BR"
         ],
         [
             "Muumiperhe Rivieralla",
             "Tove Jansson",
             "comics",
             "2014",
-            "sv"
+            "fi"
         ],
         [
             "O homem e seus símbolos",
             "",
             "nonfiction",
             "2008",
-            "en"
+            "pt_BR"
         ],
         [
             "O Pasquim",
@@ -2872,10 +2872,10 @@
         ],
         [
             "Piratas",
-            "Captain Charles Johnson",
+            "Charles Johnson",
             "nonfiction",
             "2003",
-            "en"
+            "pt_BR"
         ],
         [
             "Prosperity without growth",
@@ -2889,14 +2889,14 @@
             "Steve Jackson",
             "nonfiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "Sincronicidade",
             "Carl Gustav Jung",
             "nonfiction",
             "2007",
-            "de"
+            "pt_BR"
         ],
         [
             "There were two trees in the garden",
@@ -2952,35 +2952,35 @@
             "Stephen King",
             "fiction",
             "2016",
-            "en_US"
+            "pt_BR"
         ],
         [
             "A casa negra",
             "Peter Straub",
             "fiction",
             "2019",
-            "en_US"
+            "pt_BR"
         ],
         [
             "A incendiária",
             "Stephen King",
             "fiction",
             "2018",
-            "en_US"
+            "pt_BR"
         ],
         [
             "A Look at Finnish History",
             "Seija Väärä",
             "nonfiction",
             "2011",
-            "fi"
+            "en"
         ],
         [
             "O Veredicto",
             "Franz Kafka",
             "fiction",
             "2001",
-            "en"
+            "pt_BR"
         ],
         [
             "A Programmer's Introduction to Mathematics",
@@ -2994,7 +2994,7 @@
             "Immanuel Kant",
             "nonfiction",
             "2006",
-            "de_DE"
+            "pt_BR"
         ],
         [
             "A Theory of Fun for Game Design",
@@ -3008,63 +3008,63 @@
             "Stephen King",
             "fiction",
             "2003",
-            "en_US"
+            "pt_BR"
         ],
         [
             "A escolha dos três",
             "Stephen King",
             "fiction",
             "2007",
-            "en_US"
+            "pt_BR"
         ],
         [
             "As terras devastadas",
             "Stephen King",
             "fiction",
             "2005",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Mago e Vidro",
             "Stephen King",
             "fiction",
             "2007",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Lobos de Calla",
             "Stephen King",
             "fiction",
             "2007",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Canção de Susannah",
             "Stephen King",
             "fiction",
             "2005",
-            "en_US"
+            "pt_BR"
         ],
         [
             "A Torre Negra",
             "Stephen King",
             "fiction",
             "2007",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Billy Summers",
             "Stephen King",
             "fiction",
             "2021",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Carta ao pai",
             "Franz Kafka",
             "biography",
             "2004",
-            "de"
+            "pt_BR"
         ],
         [
             "Creative Lettering and Beyond",
@@ -3078,7 +3078,7 @@
             "Stephen King",
             "fiction",
             "2016",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Cycle of the werewolf",
@@ -3120,7 +3120,7 @@
             "Lauren Kate",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "Four Past Midnight",
@@ -3162,7 +3162,7 @@
             "Jüri Kuuskemaa",
             "fiction",
             "2012",
-            "ru"
+            "en"
         ],
         [
             "Mala sangre",
@@ -3197,35 +3197,35 @@
             "Stephen King",
             "fiction",
             "2016",
-            "en_US"
+            "pt_BR"
         ],
         [
             "N.",
             "Alex Maleev",
             "graphic novel",
             "2018",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Novembro de 63",
             "Stephen King",
             "fiction",
             "2013",
-            "en_US"
+            "pt_BR"
         ],
         [
             "No ar rarefeito",
             "Jon Krakauer",
             "travelogue",
             "2006",
-            "en"
+            "pt_BR"
         ],
         [
             "On the road",
             "Jack Kerouak",
             "travelogue",
             "1988",
-            "en"
+            "pt_BR"
         ],
         [
             "O Canto da Sereia",
@@ -3239,56 +3239,56 @@
             "Stephen King",
             "fiction",
             "2006",
-            "en_US"
+            "pt_BR"
         ],
         [
             "O direito pelo avesso",
             "Thomas Schaefer",
             "fiction",
             "2001",
-            "de"
+            "pt"
         ],
         [
             "O Iluminado",
             "Stephen King",
             "fiction",
             "1987",
-            "en_US"
+            "pt_BR"
         ],
         [
             "O mundo é o que você come",
             "Barbara Kingsolver",
             "cookbook",
             "2007",
-            "en-US"
+            "pt_BR"
         ],
         [
             "O processo",
             "Franz Kafka",
             "fiction",
             "2015",
-            "de"
+            "pt_BR"
         ],
         [
             "Paixão",
             "Lauren Kate",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "Pesadelos e paisagens noturnas",
             "Stephen King",
             "fiction",
             "2013",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Pesadelos e paisagens noturnas",
             "Stephen King",
             "fiction",
             "2013",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Quem faz gemer a terra",
@@ -3309,7 +3309,7 @@
             "Hans Kelsen",
             "nonfiction",
             "2018",
-            "de"
+            "pt_BR"
         ],
         [
             "The Eyes of the Dragon",
@@ -3372,14 +3372,14 @@
             "Lauren Kate",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "Último turno",
             "Stephen King",
             "fiction",
             "2016",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Valsa para Bruno Stein",
@@ -3407,49 +3407,49 @@
             "Henrik Lange",
             "comics",
             "2010",
-            "en"
+            "pt_BR"
         ],
         [
             "Apoliom",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2000",
-            "en"
+            "pt_BR"
         ],
         [
             "Armagedom",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "Assassinos",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2001",
-            "en"
+            "pt_BR"
         ],
         [
             "A Cadeira de Prata",
-            "Clive Staples Lewis",
+            "C. S. Lewis",
             "fiction",
             "1997",
-            "en"
+            "pt_BR"
         ],
         [
             "A Cidade dos Ladrões",
             "Ian Livingstone",
             "gamebook",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "A Colheita",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "A conversa chegou à cozinha",
@@ -3463,14 +3463,14 @@
             "Mario Vargas Llosa",
             "fiction",
             "2011",
-            "es"
+            "pt_BR"
         ],
         [
             "A Marca",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2002",
-            "en"
+            "pt_BR"
         ],
         [
             "O minotauro",
@@ -3481,31 +3481,31 @@
         ],
         [
             "A Tumba e outras histórias",
-            "Howard Phillips Lovecraft",
+            "H. P. Lovecraft",
             "fiction",
             "2007",
-            "en"
+            "pt_BR"
         ],
         [
             "A última batalha",
             "C. S. Lewis",
             "fiction",
             "1997",
-            "en"
+            "pt_BR"
         ],
         [
             "A viagem do peregrino da alvorada",
             "C. S. Lewis",
             "fiction",
             "1997",
-            "en"
+            "pt_BR"
         ],
         [
             "A Vitória Final",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "Chávez",
@@ -3523,17 +3523,17 @@
         ],
         [
             "Comando Tribulação",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "1999",
-            "en"
+            "pt_BR"
         ],
         [
             "Conversa na Catedral",
             "Mario Vargas Llosa",
             "fiction",
             "",
-            "es_PE"
+            "pt_BR"
         ],
         [
             "Cozinha a quatro mãos",
@@ -3551,10 +3551,10 @@
         ],
         [
             "Deixados Para Trás",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "1997",
-            "en"
+            "pt_BR"
         ],
         [
             "Dicionario de Tiranos",
@@ -3572,7 +3572,7 @@
         ],
         [
             "Fagundes",
-            "Laerte Coutinho",
+            "Laerte",
             "comics",
             "2007",
             "pt_BR"
@@ -3586,7 +3586,7 @@
         ],
         [
             "Glúfico",
-            "Rodrigo Camy Betarte",
+            "Levedad",
             "drawing",
             "2013",
             "es"
@@ -3596,7 +3596,7 @@
             "George Lucas",
             "fiction",
             "1978",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Illustrated Dictionary of the Bible",
@@ -3614,56 +3614,56 @@
         ],
         [
             "Lúndrico",
-            "Rodrigo Camy",
+            "Levedad",
             "drawing",
             "2015",
             "es"
         ],
         [
             "Macanudo",
-            "Ricardo Siri",
+            "Liniers",
             "comics",
             "2017",
             "es_AR"
         ],
         [
             "Nas montanhas da loucura",
-            "Howard Phillips Lovecraft",
+            "H. P. Lovecraft",
             "fiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "Nicolae",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "Nigella bites",
             "Nigela Lawson",
             "cookbook",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "No jardim das feras",
             "Erik Larson",
             "nonfiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "Os cadernos de don Rigoberto",
             "Mario Vargas Llosa",
             "fiction",
             "2011",
-            "es"
+            "pt_BR"
         ],
         [
             "Os Pecados da Língua",
-            "Paulo Sampaio",
+            "Sampaulo",
             "nonfiction",
             "1995",
             "pt_BR"
@@ -3673,14 +3673,14 @@
             "Lord Bulwer-Lytton",
             "fiction",
             "1956",
-            "en"
+            "pt_BR"
         ],
         [
             "O Cavalo e seu Menino",
-            "Clive Staples Lewis",
+            "C. S. Lewis",
             "fiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "O dever de motivação das decisões judiciais",
@@ -3691,10 +3691,10 @@
         ],
         [
             "O Glorioso Aparecimento",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "O homem vazio",
@@ -3705,38 +3705,38 @@
         ],
         [
             "O Leão, a Feiticeira e o Guarda-Roupa",
-            "Clive Staples Lewis",
+            "C. S. Lewis",
             "fiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "O Manual da Internet",
             "Jeanne C. Ryer",
             "nonfiction",
             "1994",
-            "en"
+            "pt_BR"
         ],
         [
             "O Possuído",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2001",
-            "en"
+            "pt_BR"
         ],
         [
             "O Remanescente",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2003",
-            "en"
+            "pt_BR"
         ],
         [
             "O Sobrinho do Mago",
-            "Clive Staples Lewis",
+            "C. S. Lewis",
             "fiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "Para não dizer adeus",
@@ -3750,11 +3750,11 @@
             "Jean-Pierre Lentin",
             "nonfiction",
             "1997",
-            "fr"
+            "pt_BR"
         ],
         [
             "Piratas do Tietê 2",
-            "Laerte Coutinho",
+            "Laerte",
             "comics",
             "2007",
             "pt_BR"
@@ -3768,10 +3768,10 @@
         ],
         [
             "Príncipe Caspian",
-            "Clive Staples Lewis",
+            "C. S. Lewis",
             "fiction",
             "1997",
-            "en"
+            "pt_BR"
         ],
         [
             "Proezas de João Grilo",
@@ -3789,17 +3789,17 @@
         ],
         [
             "Profanação",
-            "Jerry Bruce Jenkins",
+            "Jerry B. Jenkins",
             "fiction",
             "2002",
-            "en"
+            "pt_BR"
         ],
         [
             "Redes, liberdades e controle",
             "Benjamin Loveluck",
             "nonfiction",
             "2018",
-            "fr"
+            "pt_BR"
         ],
         [
             "Secrets of Delphi 2",
@@ -3813,7 +3813,7 @@
             "John Locke",
             "nonfiction",
             "2006",
-            "en"
+            "pt_BR"
         ],
         [
             "Teoria da Decisão Judicial",
@@ -3824,7 +3824,7 @@
         ],
         [
             "The Dispossessed",
-            "Ursula Le Guin",
+            "Ursula K. Le Guin",
             "fiction",
             "",
             "en_US"
@@ -3834,21 +3834,21 @@
             "Mario Livio",
             "nonfiction",
             "2017",
-            "en"
+            "pt_BR"
         ],
         [
             "Tudo que deixamos para trás",
             "Maja Lunde",
             "fiction",
             "2016",
-            "no_NO"
+            "pt_BR"
         ],
         [
             "Um crime entre cavalheiros",
             "John Le Carré",
             "fiction",
             "2000",
-            "en"
+            "pt_BR"
         ],
         [
             "Y... ¿por qué no?",
@@ -3869,7 +3869,7 @@
             "Domenico de Masi",
             "dictionary",
             "2017",
-            "it"
+            "pt_BR"
         ],
         [
             "Anedotário da Rua da Praia 2",
@@ -3918,21 +3918,21 @@
             "George R. R. Martin",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "A fúria dos reis",
             "George R. R. Martin",
             "fiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "A guerra dos tronos",
             "George R. R. Martin",
             "fiction",
             "2010",
-            "en"
+            "pt_BR"
         ],
         [
             "A motivação das decisões cíveis",
@@ -3953,18 +3953,18 @@
             "George R. R. Martin",
             "fiction",
             "2011",
-            "en"
+            "pt_BR"
         ],
         [
             "Bruxa natural",
             "Arin Murphy-Hiscock",
             "cookbook",
             "2021",
-            "en"
+            "pt_BR"
         ],
         [
             "Cien Años de Soledad",
-            "Miguel de Cervantes Saavedra",
+            "Gabriel Garcia Márquez",
             "fiction",
             "2007",
             "es_CO"
@@ -3995,7 +3995,7 @@
             "Stephenie Meyer",
             "fiction",
             "2008",
-            "en__US"
+            "pt_BR"
         ],
         [
             "De l'esprit des lois",
@@ -4051,7 +4051,7 @@
             "Eddie Campbell",
             "comics",
             "2014",
-            "en"
+            "pt_BR"
         ],
         [
             "Economical Writing",
@@ -4062,7 +4062,7 @@
         ],
         [
             "Effective C++",
-            "Scott Douglas Meyers",
+            "Scott Meyers",
             "nonfiction",
             "1998",
             "en_US"
@@ -4076,10 +4076,10 @@
         ],
         [
             "Ensaio Sobre a Liberdade",
-            "John Stuart Mill",
+            "Stuart Mill",
             "nonfiction",
             "2006",
-            "en"
+            "pt_BR"
         ],
         [
             "Estudos sobre lógica e direito",
@@ -4107,7 +4107,7 @@
             "Manuela B. Mena Marqués",
             "guidebook",
             "2005",
-            "es_ES"
+            "en"
         ],
         [
             "Gossip from the forest",
@@ -4121,7 +4121,7 @@
             "Silvia Moreno-Garcia",
             "fiction",
             "2021",
-            "en_CA"
+            "pt_BR"
         ],
         [
             "Guerreiros da Luz",
@@ -4146,14 +4146,14 @@
         ],
         [
             "Hamlet no Holodeck",
-            "Janet Horowitz Murray",
+            "Janet H. Murray",
             "nonfiction",
             "2003",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Introdução à lógica",
-            "Cezar Augusto Mortari",
+            "Cezar A. Mortari",
             "nonfiction",
             "2001",
             "pt_BR"
@@ -4184,7 +4184,7 @@
             "Stephenie Meyer",
             "fiction",
             "2008",
-            "en__US"
+            "pt_BR"
         ],
         [
             "Making Comics",
@@ -4247,7 +4247,7 @@
             "George R. R. Martin",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "O prazer das palavras",
@@ -4272,10 +4272,10 @@
         ],
         [
             "O Príncipe",
-            "Nicoló di Bernardo dei Machiavelli",
+            "Maquiavel",
             "nonfiction",
             "1998",
-            "it"
+            "pt_BR"
         ],
         [
             "O uso público da razão",
@@ -4289,7 +4289,7 @@
             "Giorgio Manganelli",
             "fiction",
             "2002",
-            "it"
+            "pt_BR"
         ],
         [
             "Practical Neural Network Recipes in C++",
@@ -4310,7 +4310,7 @@
             "Bradley Denton",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "Ruido Blanco",
@@ -4324,7 +4324,7 @@
             "Stephanie Meyer",
             "fiction",
             "2020",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Team of Teams",
@@ -4401,7 +4401,7 @@
             "Alberto Manguel",
             "nonfiction",
             "2017",
-            "en"
+            "es"
         ],
         [
             "Understanding Comics",
@@ -4422,18 +4422,18 @@
             "John Stuart Mill",
             "nonfiction",
             "2007",
-            "en"
+            "pt_BR"
         ],
         [
             "Utopia",
-            "Thomas Morus",
+            "Thomas More",
             "fiction",
             "",
-            "la"
+            "pt_BR"
         ],
         [
             "Veredas de um Leopoldense",
-            "Roberto Belcino Maciel",
+            "Roberto Müller Maciel",
             "biography",
             "2015",
             "pt_BR"
@@ -4457,14 +4457,14 @@
             "Martha C. Nussbaum",
             "nonfiction",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "A Gaia Ciência",
-            "Friedrich Wilhelm Nietzsche",
+            "Friedrich Nietzsche",
             "nonfiction",
             "2006",
-            "de"
+            "pt_BR"
         ],
         [
             "Building Microservices",
@@ -4499,32 +4499,32 @@
             "Michael Hardt",
             "nonfiction",
             "2016",
-            "en"
+            "pt_BR"
         ],
         [
             "Desvendando o PC",
             "Peter Norton",
             "nonfiction",
             "1996",
-            "en"
+            "pt_BR"
         ],
         [
             "De volta",
             "Antonio Negri",
             "nonfiction",
             "2006",
-            "fr"
+            "pt_BR"
         ],
         [
             "Einstein",
             "Jürgen Neffe",
             "biography",
             "2012",
-            "DE_de"
+            "pt_BR"
         ],
         [
             "Geeks Bearing Gifts",
-            "Theodor Holm Nelson",
+            "Ted Nelson",
             "nonfiction",
             "2009",
             "en"
@@ -4548,7 +4548,7 @@
             "Sallie Nichols",
             "nonfiction",
             "2005",
-            "en"
+            "pt_BR"
         ],
         [
             "Brazil",
@@ -4566,21 +4566,21 @@
         ],
         [
             "O Dom",
-            "Влади́мир Влади́мирович Набо́ков",
+            "Vladimir Nabokov",
             "fiction",
             "2017",
-            "ru"
+            "pt_BR"
         ],
         [
             "O poder constituinte",
             "Antonio Negri",
             "nonfiction",
             "2015",
-            "it"
+            "pt_BR"
         ],
         [
             "Sistemas Eleitorais",
-            "Jairo Marconi Nicolau",
+            "Jairo Nicolau",
             "nonfiction",
             "2008",
             "pt_BR"
@@ -4597,11 +4597,11 @@
             "George Orwell",
             "fiction",
             "2003",
-            "en"
+            "pt_BR"
         ],
         [
             "Che",
-            "Mario Pacho O'Donnell",
+            "Pacho O'Donnell",
             "biography",
             "2005",
             "es"
@@ -4611,7 +4611,7 @@
             "François Ost",
             "nonfiction",
             "2007",
-            "Raconter la loi"
+            "pt_BR"
         ],
         [
             "Diccionario de la lengua náhuatl",
@@ -4625,7 +4625,7 @@
             "Michèle Fitoussi",
             "biography",
             "2007",
-            "fr"
+            "pt_BR"
         ],
         [
             "La vida breve",
@@ -4681,7 +4681,7 @@
             "François Ost",
             "nonfiction",
             "",
-            "fr"
+            "pt"
         ],
         [
             "Patagonia",
@@ -4709,7 +4709,7 @@
             "Henry Petroski",
             "nonfiction",
             "2007",
-            "en"
+            "pt_BR"
         ],
         [
             "A Map that Reflects the Territory",
@@ -4748,17 +4748,17 @@
         ],
         [
             "A República",
-            "Πλάτων",
+            "Platão",
             "nonfiction",
             "2006",
-            "el"
+            "pt_BR"
         ],
         [
             "A República",
-            "Πλάτων",
+            "Platão",
             "nonfiction",
             "2006",
-            "el"
+            "pt_BR"
         ],
         [
             "A vida não é justa",
@@ -4772,11 +4772,11 @@
             "Christopher Paolini",
             "fiction",
             "2008",
-            "en"
+            "pt_BR"
         ],
         [
             "Campaign War Stories",
-            "Michael Antone Payton",
+            "Tony Payton",
             "nonfiction",
             "2004",
             "en_US"
@@ -4786,56 +4786,56 @@
             "Steven Pinker",
             "nonfiction",
             "1999",
-            "en"
+            "pt_BR"
         ],
         [
             "Contos de imaginação e mistério",
             "Edgar Allan Poe",
             "fiction",
             "2012",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Desenvolva sua Inteligência",
             "Charles Phillips",
             "puzzle",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "Do que é feito o pensamento",
             "Steven Pinker",
             "nonfiction",
             "2016",
-            "en"
+            "pt_BR"
         ],
         [
             "Eldest",
             "Christopher Paolini",
             "fiction",
             "2006",
-            "en"
+            "pt_BR"
         ],
         [
             "Em Defesa da Comida",
             "Michael Pollan",
             "nonfiction",
             "2008",
-            "en"
+            "pt_BR"
         ],
         [
             "Eragon",
             "Christopher Paolini",
             "fiction",
             "2005",
-            "en"
+            "pt_BR"
         ],
         [
             "Herança",
             "Christopher Paolini",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "História do Rio Grande do Sul",
@@ -4860,7 +4860,7 @@
         ],
         [
             "Kar",
-            "Ferit Orhan Pamuk",
+            "Orhan Pamuk",
             "fiction",
             "2011",
             "tr"
@@ -4905,7 +4905,7 @@
             "Thomas Piketti",
             "nonfiction",
             "2014",
-            "fr"
+            "pt_BR"
         ],
         [
             "O episódio do Ferrabraz",
@@ -4926,7 +4926,7 @@
             "Frank Peretti",
             "fiction",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "O Quatrilho",
@@ -4947,25 +4947,25 @@
             "Edgar Allan Poe",
             "fiction",
             "2002",
-            "en"
+            "pt_BR"
         ],
         [
             "O silêncio da casa fria",
             "Laura Purcell",
             "fiction",
             "2020",
-            "en"
+            "pt_BR"
         ],
         [
             "Poesia completa de Alberto Caeiro",
-            "Alberto Caeiro",
+            "Fernando Pessoa",
             "poetry",
             "2005",
             "pt_PT"
         ],
         [
             "Rosamundo e os Outros",
-            "Sérgio Porto",
+            "Stanislaw Ponte Preta",
             "fiction",
             "",
             "pt_BR"
@@ -5017,11 +5017,11 @@
             "Steven Pinker",
             "nonfiction",
             "2015",
-            ""
+            "en"
         ],
         [
             "The Sicilian",
-            "Mario Gianluigi Puzo",
+            "Mario Puzo",
             "fiction",
             "1987",
             "en_US"
@@ -5031,11 +5031,11 @@
             "Georges Polti",
             "nonfiction",
             "1945",
-            "fr"
+            "en"
         ],
         [
             "Troubleshooting Analog Circuits",
-            "Bob Pease",
+            "Robert A. Pease",
             "nonfiction",
             "1993",
             "en_US"
@@ -5056,31 +5056,31 @@
         ],
         [
             "Mafalda",
-            "Joaquín Salvador Lavado",
+            "Quino",
             "comics",
             "2003",
             "es_AR"
         ],
         [
             "Mafalda",
-            "Joaquín Salvador Lavado",
+            "Quino",
             "comics",
             "2003",
             "es_AR"
         ],
         [
             "Mafalda",
-            "Joaquín Salvador Lavado",
+            "Quino",
             "comics",
             "2003",
             "es_AR"
         ],
         [
             "O Livro Verde",
-            "معمر محمد أبو منيار القذافي",
+            "Muammar Al Qaddáfi",
             "nonfiction",
             "",
-            "ar"
+            "pt"
         ],
         [
             "Quintana de bolso",
@@ -5098,14 +5098,14 @@
         ],
         [
             "Toda Mafalda",
-            "Joaquín Salvador Lavado",
+            "Quino",
             "comics",
             "2005",
             "es_AR"
         ],
         [
             "¡Yo No Fui!",
-            "Joaquín Salvador Lavado",
+            "Quino",
             "comics",
             "2007",
             "es_AR"
@@ -5178,14 +5178,14 @@
             "David Robinson",
             "biography",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "Cidade dos etéreos",
             "Ransom Riggs",
             "fiction",
             "2016",
-            "en"
+            "pt_BR"
         ],
         [
             "Como decidem as cortes?",
@@ -5213,14 +5213,14 @@
             "John Reed",
             "nonfiction",
             "2017",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Ecos",
             "Pam Muñoz Ryan",
             "fiction",
             "2017",
-            "en"
+            "pt_BR"
         ],
         [
             "Einstein",
@@ -5262,14 +5262,14 @@
             "Eric Ravis",
             "nonfiction",
             "1986",
-            "fr"
+            "pt_BR"
         ],
         [
             "Nêmesis",
             "Philip Roth",
             "fiction",
             "2011",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Netto perde sua alma",
@@ -5283,28 +5283,28 @@
             "Harold Robbins",
             "fiction",
             "2000",
-            "en"
+            "pt_BR"
         ],
         [
             "O Contrato Social",
             "Jean-Jacques Rousseau",
             "nonfiction",
             "",
-            "fr"
+            "pt_BR"
         ],
         [
             "O Ickabog",
             "J. K. Rowling",
             "fiction",
             "2020",
-            "en"
+            "pt_BR"
         ],
         [
             "O orfanato da srta. Peregrine para crianças peculiares",
             "Ransom Riggs",
             "fiction",
             "2015",
-            "en"
+            "pt_BR"
         ],
         [
             "O Povo Brasileiro",
@@ -5325,7 +5325,7 @@
             "Rick Riordan",
             "fiction",
             "2015",
-            "en"
+            "pt_BR"
         ],
         [
             "Quem tem medo do feminismo negro?",
@@ -5339,14 +5339,14 @@
             "Michel Roux",
             "cookbook",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "Ted Bundy",
             "Ann Rule",
             "nonfiction",
             "2019",
-            "en"
+            "pt_BR"
         ],
         [
             "The color of law",
@@ -5367,7 +5367,7 @@
             "John Rawls",
             "nonfiction",
             "2016",
-            "en"
+            "pt_BR"
         ],
         [
             "Viva o povo brasileiro",
@@ -5416,11 +5416,11 @@
             "Sófocles",
             "theater",
             "2016",
-            "gr"
+            "pt_BR"
         ],
         [
             "As Melhores Histórias da Mitologia Egípcia",
-            "Ademilson S. Franchini",
+            "A. S. Franchini",
             "fiction",
             "2012",
             "pt_BR"
@@ -5451,7 +5451,7 @@
             "Franco Volpi",
             "nonfiction",
             "2009",
-            "de"
+            "pt_BR"
         ],
         [
             "A caverna",
@@ -5462,7 +5462,7 @@
         ],
         [
             "A companheira de viagem",
-            "Fernando Tavares Sabino",
+            "Fernando Sabino",
             "fiction",
             "2002",
             "pt_BR"
@@ -5567,7 +5567,7 @@
         ],
         [
             "Dracula",
-            "Abraham Stoker",
+            "Bram Stoker",
             "fiction",
             "2003",
             "en"
@@ -5577,7 +5577,7 @@
             "Lee Strobel",
             "nonfiction",
             "2001",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Ensaio sobre a cegueira",
@@ -5602,7 +5602,7 @@
         ],
         [
             "Frankenstein",
-            "Mary Wollstonecraft Godwin",
+            "Mary Shelley",
             "fiction",
             "2003",
             "en"
@@ -5612,7 +5612,7 @@
             "Francisco Calvo Serraller",
             "guidebook",
             "2006",
-            "es_ES"
+            "en"
         ],
         [
             "Garlic Cookery",
@@ -5721,7 +5721,7 @@
         ],
         [
             "Martini Seco",
-            "Fernando Tavares Sabino",
+            "Fernando Sabino",
             "fiction",
             "2008",
             "pt_BR"
@@ -5731,7 +5731,7 @@
             "H. G. Wells",
             "nonfiction",
             "1946",
-            "en"
+            "pt_BR"
         ],
         [
             "Mastering PostgreSQL 12",
@@ -5742,10 +5742,10 @@
         ],
         [
             "Maus",
-            "Itzhak Avraham ben Zeev",
+            "Art Spiegelman",
             "comics",
             "2014",
-            "en"
+            "pt_BR"
         ],
         [
             "Memorial do convento",
@@ -5777,21 +5777,21 @@
         ],
         [
             "Miragem",
-            "Luciana Olga Soares",
+            "Luciana Soares",
             "poetry",
             "1999",
             "pt_BR"
         ],
         [
             "Não Tá Morto Quem Peleia",
-            "Neltair Rebés Abreu",
+            "Santiago",
             "comics",
             "",
             "pt_BR"
         ],
         [
             "Newcastle Upon Tyne Dialect",
-            "C. Sanderson",
+            "Kate Sanderson",
             "dictionary",
             "2013",
             "en"
@@ -5801,7 +5801,7 @@
             "",
             "poetry",
             "2004",
-            "en"
+            "pt_BR"
         ],
         [
             "O ciclo das águas",
@@ -5819,31 +5819,31 @@
         ],
         [
             "O homem que matou Getúlio Vargas",
-            "José Eugênio Soares",
+            "Jô Soares",
             "fiction",
             "1998",
             "pt_BR"
         ],
         [
             "O livro do travesseiro",
-            "清少納言",
+            "Sei Shônagon",
             "nonfiction",
             "2013",
-            "ja_JP"
+            "pt_BR"
         ],
         [
             "O Médico e o Monstro",
-            "Robert Louis Balfour Stevenson",
+            "Robert Louis Stevenson",
             "fiction",
             "2002",
-            "en"
+            "pt_BR"
         ],
         [
             "O Mercador de Veneza",
             "William Shakespeare",
             "fiction",
             "2012",
-            "en"
+            "pt_BR"
         ],
         [
             "O que é isto - decido conforme minha consciência",
@@ -5864,7 +5864,7 @@
             "Paul Simon",
             "cookbook",
             "2012",
-            "fr"
+            "pt_BR"
         ],
         [
             "Reconhecimento de entidades mencionadas em português",
@@ -5878,56 +5878,56 @@
             "William Shakespeare",
             "fiction",
             "2007",
-            "en"
+            "it"
         ],
         [
             "Sangue, Suor e Pixels",
             "Jason Schreier",
             "nonfiction",
             "2018",
-            "en"
+            "pt_BR"
         ],
         [
             "Santugri",
-            "Muniz Sodré de Araújo Cabral",
+            "Muniz Sodré",
             "fiction",
             "2011",
             "pt_BR"
         ],
         [
             "Snoopy",
-            "Charles Monroe Schulz",
+            "Charles Schultz",
             "comics",
             "2008",
-            "en"
+            "pt_BR"
         ],
         [
             "Snoopy",
-            "Charles Monroe Schulz",
+            "Charles Schultz",
             "comics",
             "2007",
-            "en"
+            "pt_BR"
         ],
         [
             "Snoopy",
-            "Charles Monroe Schulz",
+            "Charles Schultz",
             "comics",
             "2007",
-            "en"
+            "pt_BR"
         ],
         [
             "Snoopy e sua Turma",
-            "Charles Monroe Schulz",
+            "Charles Schultz",
             "comics",
             "2007",
-            "en"
+            "pt_BR"
         ],
         [
             "Sonho de uma noite de verão",
             "William Shakespeare",
             "fiction",
             "2002",
-            "en"
+            "pt_BR"
         ],
         [
             "South",
@@ -5983,14 +5983,14 @@
             "Molière",
             "fiction",
             "2018",
-            "la"
+            ""
         ],
         [
             "Teste de Rorschach",
             "Damion Searls",
             "nonfiction",
             "2021",
-            "en"
+            "pt_BR"
         ],
         [
             "The Art of Game Design",
@@ -6001,14 +6001,14 @@
         ],
         [
             "The Complete Peanuts",
-            "Charles Monroe Schulz",
+            "Charles M. Schulz",
             "comics",
             "2007",
             "en_US"
         ],
         [
             "The Complete Peanuts",
-            "Charles Monroe Schulz",
+            "Charles M. Schulz",
             "comics",
             "2007",
             "en_US"
@@ -6029,7 +6029,7 @@
         ],
         [
             "Vavau Mania",
-            "Mário Arthur Junges",
+            "Sinovaldo",
             "comics",
             "1990",
             "pt_BR"
@@ -6043,7 +6043,7 @@
         ],
         [
             "500 Anos",
-            "Eloy Divino Gonçalves Terra",
+            "Eloy Terra",
             "nonfiction",
             "1999",
             "pt_BR"
@@ -6053,14 +6053,14 @@
             "Daniel Kraus",
             "fiction",
             "2018",
-            "en"
+            "pt_BR"
         ],
         [
             "Cartas de Maresi",
             "Maria Turtschaninoff",
             "fiction",
             "2021",
-            "fi"
+            "pt_BR"
         ],
         [
             "Proceedings 17th International Conference on Computer Animation & Social Agents",
@@ -6106,7 +6106,7 @@
         ],
         [
             "Dibujos Invisibles",
-            "Gervasio Troche",
+            "Troche",
             "drawing",
             "2013",
             "es"
@@ -6123,14 +6123,14 @@
             "Liev Tolstói",
             "fiction",
             "2017",
-            "de"
+            "pt_BR"
         ],
         [
             "Guerra e Paz",
             "Liev Tolstói",
             "fiction",
             "2017",
-            "de"
+            "pt_BR"
         ],
         [
             "La última ballena",
@@ -6144,14 +6144,14 @@
             "Maria Turtschaninoff",
             "fiction",
             "2018",
-            "fi"
+            "pt_BR"
         ],
         [
             "Naondel",
             "Maria Turtschaninoff",
             "fiction",
             "2019",
-            "fi"
+            "pt_BR"
         ],
         [
             "O avesso da pele",
@@ -6162,45 +6162,45 @@
         ],
         [
             "O Hobbit",
-            "John Ronald Reuel Tolkien",
+            "J. R. R. Tolkien",
             "fiction",
             "2003",
-            "en"
+            "pt_BR"
         ],
         [
             "O Homem Que Calculava",
-            "Júlio César de Mello e Souza",
+            "Malba Tahan",
             "fiction",
             "1998",
             "pt_BR"
         ],
         [
             "O Senhor dos Anéis",
-            "John Ronald Reuel Tolkien",
+            "J. R. R. Tolkien",
             "fiction",
             "2001",
-            "en_GB"
+            "pt_BR"
         ],
         [
             "O Senhor dos Anéis",
-            "John Ronald Reuel Tolkien",
+            "J. R. R. Tolkien",
             "fiction",
             "2001",
-            "en_GB"
+            "pt_BR"
         ],
         [
             "O Senhor dos Anéis",
-            "John Ronald Reuel Tolkien",
+            "J. R. R. Tolkien",
             "fiction",
             "2001",
-            "en_GB"
+            "pt_BR"
         ],
         [
             "O Silmarillion",
-            "John Ronald Reuel Tolkien",
+            "J. R. R. Tolkien",
             "fiction",
             "2009",
-            "en"
+            "pt_BR"
         ],
         [
             "Processo civil no direito de família",
@@ -6211,14 +6211,14 @@
         ],
         [
             "Recetario / Recipe book",
-            "Norma Noemí Thomas de Thomas",
+            "Norma Thomas",
             "cookbook",
             "2014",
             "cy"
         ],
         [
             "Tute",
-            "Tobías Beltrán Núñez",
+            "Tute",
             "drawing",
             "2014",
             "es_AR"
@@ -6288,10 +6288,10 @@
         ],
         [
             "Cândido",
-            "François-Marie Arouet",
+            "Voltaire",
             "fiction",
             "2010",
-            "fr"
+            "pt_BR"
         ],
         [
             "Computational Processing of the Portuguese Langue",
@@ -6309,7 +6309,7 @@
         ],
         [
             "Gramática latina para o ginásio",
-            "Mílton Valente",
+            "Pe. Mílton Valente, S.J.",
             "textbook",
             "1952",
             "pt_BR"
@@ -6358,21 +6358,21 @@
         ],
         [
             "O Arquipélago",
-            "Érico Lopes Veríssimo",
+            "Erico Verissimo",
             "fiction",
             "2004",
             "pt_BR"
         ],
         [
             "O Arquipélago",
-            "Érico Lopes Veríssimo",
+            "Erico Verissimo",
             "fiction",
             "2004",
             "pt_BR"
         ],
         [
             "O Arquipélago",
-            "Érico Lopes Veríssimo",
+            "Erico Verissimo",
             "fiction",
             "2004",
             "pt_BR"
@@ -6393,14 +6393,14 @@
         ],
         [
             "O Continente",
-            "Érico Lopes Veríssimo",
+            "Erico Verissimo",
             "fiction",
             "2004",
             "pt_BR"
         ],
         [
             "O Continente",
-            "Érico Lopes Veríssimo",
+            "Erico Verissimo",
             "fiction",
             "2004",
             "pt_BR"
@@ -6435,14 +6435,14 @@
         ],
         [
             "O Retrato",
-            "Érico Lopes Veríssimo",
+            "Erico Verissimo",
             "fiction",
             "2004",
             "pt_BR"
         ],
         [
             "O Retrato",
-            "Érico Lopes Veríssimo",
+            "Erico Verissimo",
             "fiction",
             "2004",
             "pt_BR"
@@ -6515,14 +6515,14 @@
             "Hans Wehr",
             "dictionary",
             "1993",
-            "de"
+            "en"
         ],
         [
             "Arabic-English Dictionary",
             "Hans Wehr",
             "dictionary",
             "1993",
-            "de"
+            "en"
         ],
         [
             "Wahrig dicionário semibilíngue para brasileiros - Alemão",
@@ -6554,10 +6554,10 @@
         ],
         [
             "Há Monstros Debaixo da Cama?",
-            "William Boyd Watterson II",
+            "Bill Watterson",
             "comics",
             "2007",
-            "en"
+            "pt_PT"
         ],
         [
             "Introdução ao pensamento jurídico crítico",
@@ -6578,7 +6578,7 @@
             "Simon Woods",
             "nonfiction",
             "2007",
-            "en"
+            "pt_BR"
         ],
         [
             "New Orleans classic desserts",
@@ -6589,10 +6589,10 @@
         ],
         [
             "O Mundo é Mágico",
-            "William Boyd Watterson II",
+            "Bill Watterson",
             "comics",
             "2007",
-            "en"
+            "pt_BR"
         ],
         [
             "O pai dos burros",
@@ -6606,21 +6606,21 @@
             "Robert L. Wolke",
             "cookbook",
             "2003",
-            "en"
+            "pt_BR"
         ],
         [
             "O que Einstein disse a seu cozinheiro 2",
             "Robert L. Wolke",
             "cookbook",
             "2005",
-            "en"
+            "pt_BR"
         ],
         [
             "Planeta Rebelde",
             "Robin Waterfield",
             "gamebook",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "The World Without Us",
@@ -6634,7 +6634,7 @@
             "James Daybell",
             "nonfiction",
             "2019",
-            "en"
+            "pt_BR"
         ],
         [
             "fisl 7.0",
@@ -6655,7 +6655,7 @@
             "Kenji Yoshino",
             "nonfiction",
             "2014",
-            "en"
+            "pt_BR"
         ],
         [
             "MSX Jogos",
@@ -6676,21 +6676,21 @@
             "Oscar Zarate",
             "comics",
             "2017",
-            "en"
+            "pt_BR"
         ],
         [
             "Germinal",
             "Émile Zola",
             "fiction",
             "2000",
-            "fr"
+            "pt_BR"
         ],
         [
             "O ano em que sonhamos perigosamente",
             "Slavoj Žižek",
             "nonfiction",
             "2014",
-            "en"
+            "pt_BR"
         ],
         [
             "Religiões",
@@ -6711,42 +6711,42 @@
             "",
             "cookbook",
             "2007",
-            "it"
+            "pt_BR"
         ],
         [
             "A grande cozinha",
             "",
             "cookbook",
             "2007",
-            "it"
+            "pt_BR"
         ],
         [
             "A grande cozinha",
             "",
             "cookbook",
             "2007",
-            "it"
+            "pt_BR"
         ],
         [
             "A grande cozinha",
             "",
             "cookbook",
             "2007",
-            "it"
+            "pt_BR"
         ],
         [
             "A grande cozinha",
             "",
             "cookbook",
             "2007",
-            "it"
+            "pt_BR"
         ],
         [
             "A grande cozinha",
             "",
             "cookbook",
             "2007",
-            "it"
+            "pt_BR"
         ],
         [
             "Bescherelle",
@@ -6816,7 +6816,7 @@
             "",
             "cookbook",
             "",
-            "en"
+            "pt_BR"
         ],
         [
             "Cupcakes",
@@ -6893,7 +6893,7 @@
             "",
             "nonfiction",
             "1994",
-            "en"
+            "pt_BR"
         ],
         [
             "Hahnenklee / Goslar",
@@ -6928,14 +6928,14 @@
             "",
             "artbook",
             "1994",
-            "de"
+            "it"
         ],
         [
             "I Ching",
             "",
             "nonfiction",
             "2006",
-            "zh"
+            "pt_BR"
         ],
         [
             "Juntos na cozinha",
@@ -6977,63 +6977,63 @@
             "",
             "cookbook",
             "2007",
-            "fr"
+            "pt_BR"
         ],
         [
             "Larousse da Cozinha do Mundo",
             "",
             "cookbook",
             "2007",
-            "fr"
+            "pt_BR"
         ],
         [
             "Larousse da Cozinha do Mundo",
             "",
             "cookbook",
             "2007",
-            "fr"
+            "pt_BR"
         ],
         [
             "Larousse da Cozinha do Mundo",
             "",
             "cookbook",
             "2007",
-            "fr"
+            "pt_BR"
         ],
         [
             "Larousse da Cozinha do Mundo",
             "",
             "cookbook",
             "2007",
-            "fr"
+            "pt_BR"
         ],
         [
             "Livro das mil e uma noites",
             "",
             "fiction",
             "2015",
-            "ar"
+            "pt_BR"
         ],
         [
             "Livro das mil e uma noites",
             "",
             "fiction",
             "2015",
-            "ar"
+            "pt_BR"
         ],
         [
             "Livro das mil e uma noites",
             "",
             "fiction",
             "2015",
-            "ar"
+            "pt_BR"
         ],
         [
             "Livro das mil e uma noites",
             "",
             "fiction",
             "2015",
-            "ar"
+            "pt_BR"
         ],
         [
             "Mergulho em Família",
@@ -7198,7 +7198,7 @@
         ],
         [
             "Pré-Socráticos",
-            "Δημόκριτος",
+            "Democritus",
             "nonfiction",
             "1991",
             "pt_BR"
@@ -7222,7 +7222,7 @@
             "",
             "cookbook",
             "2008",
-            "en"
+            "pt"
         ],
         [
             "Receitas de Natal",
@@ -7250,7 +7250,7 @@
             "",
             "nonfiction",
             "2000",
-            "en"
+            "pt_BR"
         ],
         [
             "Sorvetes caseiros",
@@ -7369,7 +7369,7 @@
             "Ellery Queen",
             "fiction",
             "1981",
-            "en"
+            "pt_BR"
         ]
     ]
 }

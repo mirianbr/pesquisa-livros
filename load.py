@@ -9,13 +9,13 @@ def get_book_summary(bookfile):
         if (line.strip() > ''): 
             if line.startswith('title='):
                 book_summary['title'] = line.split('=')[1].strip()
-            elif 'author=' in line:
+            elif line.startswith('author='):
                 book_summary['author'] = line.split('=')[1].strip()
-            elif 'type=' in line:
+            elif line.startswith('subtype='):
                 book_summary['subtype'] = line.split('=')[1].strip()
-            elif 'year=' in line:
+            elif line.startswith('year='):
                 book_summary['year'] = line.split('=')[1].strip().replace('[', '').replace(']', '')
-            elif 'lang=' in line:
+            elif line.startswith('lang='):
                 book_summary['lang'] = line.split('=')[1].strip()
 
     return book_summary

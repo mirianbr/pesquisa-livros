@@ -645,6 +645,13 @@
             "pt_BR"
         ],
         [
+            "Semente originária",
+            "Octavia E. Butler",
+            "fiction",
+            "2021",
+            "pt_BR"
+        ],
+        [
             "O positivismo jurídico",
             "Norberto Bobbio",
             "textbook",
@@ -1798,6 +1805,13 @@
             "cookbook",
             "",
             "en"
+        ],
+        [
+            "É assim que se perde a guerra do tempo",
+            "Max Gladstone",
+            "fiction",
+            "2021",
+            "pt_BR"
         ],
         [
             "Gametek",
@@ -3060,6 +3074,13 @@
             "pt_BR"
         ],
         [
+            "Carrie",
+            "Stephen King",
+            "fiction",
+            "2022",
+            "pt_BR"
+        ],
+        [
             "Carta ao pai",
             "Franz Kafka",
             "biography",
@@ -3267,6 +3288,13 @@
             "Franz Kafka",
             "fiction",
             "2015",
+            "pt_BR"
+        ],
+        [
+            "O vento pela fechadura",
+            "Stephen King",
+            "fiction",
+            "2013",
             "pt_BR"
         ],
         [
@@ -3625,6 +3653,13 @@
             "comics",
             "2017",
             "es_AR"
+        ],
+        [
+            "Manual do minotauro",
+            "Laerte",
+            "comics",
+            "2021",
+            "pt_BR"
         ],
         [
             "Nas montanhas da loucura",

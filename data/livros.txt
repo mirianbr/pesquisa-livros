@@ -530,7 +530,7 @@
             "Octavia E. Butler",
             "fiction",
             "2017",
-            "en_US"
+            "pt_BR"
         ],
         [
             "Mazes for Programmers",

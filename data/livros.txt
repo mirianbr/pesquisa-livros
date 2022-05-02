@@ -15,6 +15,13 @@
             "pt_BR"
         ],
         [
+            "Americanah",
+            "Chimamanda Ngozi Adichie",
+            "fiction",
+            "2014",
+            "pt_BR"
+        ],
+        [
             "Armazém do Folclore",
             "Ricardo Azevedo",
             "fiction",
@@ -1405,6 +1412,13 @@
             "Agatha Christie",
             "fiction",
             "",
+            "pt_BR"
+        ],
+        [
+            "Piranesi",
+            "Susanna Clarke",
+            "fiction",
+            "2021",
             "pt_BR"
         ],
         [
@@ -4614,6 +4628,13 @@
             "pt_BR"
         ],
         [
+            "Sal, gordura, ácido, calor",
+            "Samin Nosrat",
+            "cookbook",
+            "2019",
+            "pt_BR"
+        ],
+        [
             "Sistemas Eleitorais",
             "Jairo Nicolau",
             "nonfiction",
@@ -5599,6 +5620,13 @@
             "textbook",
             "2013",
             "en"
+        ],
+        [
+            "Distância de Resgate",
+            "Samanta Schweblin",
+            "fiction",
+            "2021",
+            "pt_BR"
         ],
         [
             "Dracula",

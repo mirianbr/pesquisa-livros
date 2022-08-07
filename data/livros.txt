@@ -344,6 +344,13 @@
             "pt_BR"
         ],
         [
+            "Vozes de Tchernóbil",
+            "Svetlana Aleksiévitch",
+            "nonfiction",
+            "2016",
+            "pt_BR"
+        ],
+        [
             "1001 Maravilhas Naturais Para Ver Antes de Morrer",
             "",
             "guidebook",
@@ -405,6 +412,13 @@
             "textbook",
             "2012",
             "pt_BR"
+        ],
+        [
+            "Decameron",
+            "Giovanni Boccaccio",
+            "fiction",
+            "1995",
+            "it"
         ],
         [
             "Democracia e segredo",
@@ -692,6 +706,13 @@
             "fiction",
             "",
             "es"
+        ],
+        [
+            "Small Giants",
+            "Bo Burlingham",
+            "nonfiction",
+            "2016",
+            "en_US"
         ],
         [
             "Sociedades Artificiais",
@@ -2003,6 +2024,13 @@
             "pt_BR"
         ],
         [
+            "Fortuna",
+            "Fortuna",
+            "comics",
+            "2014",
+            "pt_BR"
+        ],
+        [
             "Poesia",
             "Erich Fried",
             "poetry",
@@ -2546,6 +2574,13 @@
             "Orlando Gomes",
             "textbook",
             "1980",
+            "pt_BR"
+        ],
+        [
+            "Trazmundo e Pegavento",
+            "Elvio Gonçalves",
+            "fiction",
+            "2015",
             "pt_BR"
         ],
         [
@@ -4544,11 +4579,25 @@
             "pt_BR"
         ],
         [
+            "Crafting Interpreters",
+            "Robert Nystrom",
+            "nonfiction",
+            "2021",
+            "en"
+        ],
+        [
             "Declaração",
             "Michael Hardt",
             "nonfiction",
             "2016",
             "pt_BR"
+        ],
+        [
+            "Deep Work",
+            "Cal Newport",
+            "nonfiction",
+            "2021",
+            "en_US"
         ],
         [
             "Desvendando o PC",
@@ -6278,6 +6327,13 @@
             "cookbook",
             "2014",
             "cy"
+        ],
+        [
+            "Rei do Congo",
+            "José Ramos Tinhorão",
+            "nonfiction",
+            "2016",
+            "pt_BR"
         ],
         [
             "Tute",
